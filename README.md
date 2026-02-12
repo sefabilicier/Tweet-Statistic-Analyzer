@@ -89,7 +89,7 @@ tweet-analyzer/
 #### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/yourusername/tweet-analyzer.git
+git clone https://github.com/sefabilicier/Tweet-Statistic-Analyzer.git
 cd tweet-analyzer
 ```
 
