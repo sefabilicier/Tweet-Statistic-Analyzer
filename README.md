@@ -1,4 +1,4 @@
-# Twitter Word Count Analyzer
+# Tweet Statistic Analyzer
 
 An interactive statistical analysis tool for exploring tweet length patterns and summary statistics. Built with Python, Streamlit, and modern data science libraries.
 
