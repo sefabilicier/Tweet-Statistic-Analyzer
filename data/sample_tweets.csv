@@ -6,14 +6,14 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 595209585,2018-01-03 17:39:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,650,3936,265,79,2018,1,3,17,39,20,False,False,Music,consistent,0,1
 316634148,2018-01-04 10:53:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,263,2356,125,37,2018,1,4,10,53,19,False,False,Music,consistent,0,0
 933975060,2018-01-04 19:33:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,405,2857,122,36,2018,1,4,19,33,22,False,False,Music,consistent,0,1
-913985351,2018-01-05 05:57:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,143,586,15,4,2018,1,5,5,57,3,False,False,Tech,erratic,1,0
+913985351,2018-01-05 05:57:00,Exciting news!,elonmusk,Elon Musk,150000000,143,586,15,4,2018,1,5,5,57,3,False,False,Tech,erratic,1,0
 393852271,2018-01-05 12:00:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,223,2022,154,46,2018,1,5,12,0,25,False,False,Politics,thoughtful,0,0
-495684131,2018-01-05 22:57:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,19,88,5,1,2018,1,5,22,57,1,False,True,Tech,erratic,1,0
+495684131,2018-01-05 22:57:00,Exciting news!,elonmusk,Elon Musk,150000000,19,88,5,1,2018,1,5,22,57,1,False,True,Tech,erratic,1,0
 534293904,2018-01-06 04:07:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1145,6625,219,65,2018,1,6,4,7,23,False,False,Music,consistent,1,0
 196974609,2018-01-06 07:00:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1232,9609,700,210,2018,1,6,7,0,29,False,True,Politics,thoughtful,0,1
 458820120,2018-01-06 12:45:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1093,4173,222,66,2018,1,6,12,45,28,False,False,Politics,thoughtful,1,0
 453960030,2018-01-07 20:51:00,Great conversation today about innovation and the future.,BillGates,Bill Gates,62000000,549,3247,98,29,2018,1,7,20,51,14,False,False,Tech,informative,0,0
-827013211,2018-01-08 01:27:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,119,775,16,4,2018,1,8,1,27,4,False,False,Tech,erratic,0,1
+827013211,2018-01-08 01:27:00,Exciting news!,elonmusk,Elon Musk,150000000,119,775,16,4,2018,1,8,1,27,4,False,False,Tech,erratic,0,1
 32033697,2018-01-08 04:16:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,754,3960,113,33,2018,1,8,4,16,21,False,False,Science,professional,0,1
 338584240,2018-01-08 09:42:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,277,1991,48,14,2018,1,8,9,42,10,False,True,Tech,erratic,1,0
 524066380,2018-01-08 11:26:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,533,2480,60,18,2018,1,8,11,26,24,False,False,Music,consistent,0,0
@@ -73,7 +73,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 416077633,2018-01-27 18:59:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1534,5351,172,51,2018,1,27,18,59,34,False,False,Politics,thoughtful,1,0
 28590728,2018-02-01 05:02:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,340,2577,135,40,2018,2,1,5,2,19,False,True,Tech,informative,1,0
 145168634,2018-02-01 13:16:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,130,1242,71,21,2018,2,1,13,16,20,False,False,Tech,informative,3,1
-323596386,2018-02-01 14:04:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,180,1075,38,11,2018,2,1,14,4,3,False,True,Tech,erratic,1,0
+323596386,2018-02-01 14:04:00,Exciting news!,elonmusk,Elon Musk,150000000,180,1075,38,11,2018,2,1,14,4,3,False,True,Tech,erratic,1,0
 198912548,2018-02-02 14:13:00,Great conversation today about innovation and the future.,BillGates,Bill Gates,62000000,388,1604,79,23,2018,2,2,14,13,14,False,False,Tech,informative,0,0
 290419243,2018-02-02 15:43:00,Excited to share our latest project in Tech. More soon!,BillGates,Bill Gates,62000000,321,1380,68,20,2018,2,2,15,43,14,False,False,Tech,informative,0,1
 803375780,2018-02-03 00:10:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,967,4417,186,55,2018,2,3,0,10,21,False,False,Music,consistent,0,0
@@ -158,7 +158,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 960642167,2018-02-27 08:28:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,610,4754,155,46,2018,2,27,8,28,20,False,True,Music,consistent,0,0
 341199878,2018-03-01 01:14:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,419,1527,76,22,2018,3,1,1,14,26,False,False,Science,professional,1,0
 432459007,2018-03-01 02:11:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,590,4580,140,42,2018,3,1,2,11,23,False,False,Tech,informative,0,0
-128517376,2018-03-01 04:25:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,74,506,17,5,2018,3,1,4,25,2,False,False,Tech,erratic,0,0
+128517376,2018-03-01 04:25:00,Thank you all!,elonmusk,Elon Musk,150000000,74,506,17,5,2018,3,1,4,25,2,False,False,Tech,erratic,0,0
 625484945,2018-03-01 05:49:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,359,1883,99,29,2018,3,1,5,49,10,False,False,Tech,erratic,1,0
 122696833,2018-03-01 14:15:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,529,3724,127,38,2018,3,1,14,15,21,False,False,Science,professional,0,0
 631568164,2018-03-01 15:28:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,665,3319,158,47,2018,3,1,15,28,25,False,False,Tech,informative,2,0
@@ -177,7 +177,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 289288974,2018-03-04 17:32:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,267,2186,123,36,2018,3,4,17,32,19,False,False,Science,professional,1,0
 924446986,2018-03-04 21:21:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,825,5098,287,86,2018,3,4,21,21,23,False,True,Politics,thoughtful,1,0
 249088528,2018-03-05 18:43:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1302,5243,158,47,2018,3,5,18,43,24,False,False,Music,consistent,2,0
-221533127,2018-03-05 21:56:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,78,465,11,3,2018,3,5,21,56,4,True,False,Tech,erratic,1,0
+221533127,2018-03-05 21:56:00,Thank you all!,elonmusk,Elon Musk,150000000,78,465,11,3,2018,3,5,21,56,4,True,False,Tech,erratic,1,0
 447317226,2018-03-05 22:30:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,552,2357,150,45,2018,3,5,22,30,26,False,False,Science,professional,0,0
 80158439,2018-03-06 02:29:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,298,2056,106,31,2018,3,6,2,29,24,False,False,Music,consistent,0,0
 389905265,2018-03-06 17:50:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,689,2814,159,47,2018,3,6,17,50,40,False,False,Tech,erratic,1,0
@@ -207,7 +207,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 142279596,2018-03-16 12:36:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,221,1013,73,21,2018,3,16,12,36,15,True,False,Tech,informative,0,0
 495881423,2018-03-17 00:47:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,366,3083,129,38,2018,3,17,0,47,30,False,False,Tech,erratic,1,1
 357363995,2018-03-17 02:47:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,221,1768,61,18,2018,3,17,2,47,17,False,False,Tech,erratic,0,0
-684277658,2018-03-18 04:43:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,115,485,17,5,2018,3,18,4,43,4,False,False,Tech,erratic,3,0
+684277658,2018-03-18 04:43:00,Exciting news!,elonmusk,Elon Musk,150000000,115,485,17,5,2018,3,18,4,43,4,False,False,Tech,erratic,3,0
 135898835,2018-03-18 08:47:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,563,4099,84,25,2018,3,18,8,47,18,False,False,Science,professional,1,0
 607721978,2018-03-18 19:46:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,430,3519,94,28,2018,3,18,19,46,25,False,False,Politics,thoughtful,0,0
 851730215,2018-03-19 01:40:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,365,1321,63,18,2018,3,19,1,40,22,False,False,Music,consistent,2,0
@@ -227,7 +227,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 256202250,2018-03-22 01:55:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,471,2340,58,17,2018,3,22,1,55,23,False,True,Tech,informative,1,0
 129247892,2018-03-22 07:28:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,601,4723,289,86,2018,3,22,7,28,29,False,False,Politics,thoughtful,0,1
 29687098,2018-03-22 11:01:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,375,2436,117,35,2018,3,22,11,1,23,False,False,Music,consistent,0,1
-431752621,2018-03-22 13:15:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,105,518,20,6,2018,3,22,13,15,4,False,False,Tech,erratic,0,1
+431752621,2018-03-22 13:15:00,Exciting news!,elonmusk,Elon Musk,150000000,105,518,20,6,2018,3,22,13,15,4,False,False,Tech,erratic,0,1
 465194268,2018-03-22 18:34:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1233,4278,102,30,2018,3,22,18,34,19,False,True,Tech,informative,0,0
 104383772,2018-03-22 23:44:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,454,1823,143,42,2018,3,22,23,44,25,False,False,Tech,erratic,0,0
 258054103,2018-03-23 10:42:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,635,3462,143,42,2018,3,23,10,42,17,False,False,Science,professional,0,0
@@ -282,7 +282,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 75420103,2018-04-15 08:04:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,569,2262,127,38,2018,4,15,8,4,24,False,False,Music,consistent,0,0
 573056902,2018-04-15 12:59:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,920,5770,126,37,2018,4,15,12,59,26,False,False,Politics,thoughtful,0,0
 969567897,2018-04-15 22:27:00,Proud of what we're building. Stay tuned for updates.,NASA,NASA,75000000,271,1355,95,28,2018,4,15,22,27,14,False,True,Science,professional,0,0
-967579703,2018-04-16 20:51:00,Working hard! 💪,elonmusk,Elon Musk,150000000,132,566,42,12,2018,4,16,20,51,4,False,False,Tech,erratic,1,0
+967579703,2018-04-16 20:51:00,Working hard!,elonmusk,Elon Musk,150000000,132,566,42,12,2018,4,16,20,51,4,False,False,Tech,erratic,1,0
 251588161,2018-04-17 01:28:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,265,2335,77,23,2018,4,17,1,28,18,False,False,Music,consistent,0,0
 584310884,2018-04-17 08:23:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,2408,18270,562,168,2018,4,17,8,23,26,False,False,Music,consistent,0,0
 649360234,2018-04-17 12:00:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,176,1325,63,18,2018,4,17,12,0,17,True,True,Science,professional,0,0
@@ -301,7 +301,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 159127981,2018-04-22 17:11:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,903,3366,191,57,2018,4,22,17,11,18,False,True,Science,professional,0,0
 30464153,2018-04-22 18:54:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,838,4100,237,71,2018,4,22,18,54,24,False,False,Tech,informative,1,0
 242036784,2018-04-23 15:09:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,885,3209,147,44,2018,4,23,15,9,24,False,True,Politics,thoughtful,0,0
-334491480,2018-04-23 20:25:00,Working hard! 💪,elonmusk,Elon Musk,150000000,156,1247,89,26,2018,4,23,20,25,3,False,False,Tech,erratic,0,0
+334491480,2018-04-23 20:25:00,Working hard!,elonmusk,Elon Musk,150000000,156,1247,89,26,2018,4,23,20,25,3,False,False,Tech,erratic,0,0
 289546522,2018-04-24 05:06:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,389,1839,39,11,2018,4,24,5,6,20,False,False,Tech,informative,0,0
 274739979,2018-04-25 00:42:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,762,4647,246,73,2018,4,25,0,42,25,False,True,Politics,thoughtful,1,0
 387925902,2018-04-25 08:53:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,545,3562,193,57,2018,4,25,8,53,16,False,False,Tech,informative,1,0
@@ -350,12 +350,12 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 884608522,2018-05-15 13:41:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,800,3392,81,24,2018,5,15,13,41,17,False,False,Politics,thoughtful,1,1
 269214923,2018-05-15 16:34:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,231,844,40,12,2018,5,15,16,34,10,False,True,Tech,erratic,1,0
 867018839,2018-05-16 06:58:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,309,1165,75,22,2018,5,16,6,58,14,False,False,Science,professional,0,0
-99737879,2018-05-16 17:05:00,Working hard! 💪,elonmusk,Elon Musk,150000000,120,411,10,3,2018,5,16,17,5,4,False,False,Tech,erratic,0,0
+99737879,2018-05-16 17:05:00,Working hard!,elonmusk,Elon Musk,150000000,120,411,10,3,2018,5,16,17,5,4,False,False,Tech,erratic,0,0
 722042865,2018-05-17 08:51:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1064,6663,357,107,2018,5,17,8,51,25,True,True,Politics,thoughtful,0,0
 27731251,2018-05-18 06:42:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1037,4318,161,48,2018,5,18,6,42,21,False,False,Tech,informative,1,0
 381765215,2018-05-18 22:49:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,212,2017,89,26,2018,5,18,22,49,12,False,False,Science,professional,0,0
-573454367,2018-05-19 00:48:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,54,260,12,3,2018,5,19,0,48,4,False,False,Tech,erratic,1,0
-529821642,2018-05-19 01:09:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,38,271,13,3,2018,5,19,1,9,4,False,False,Tech,erratic,1,0
+573454367,2018-05-19 00:48:00,Exciting news!,elonmusk,Elon Musk,150000000,54,260,12,3,2018,5,19,0,48,4,False,False,Tech,erratic,1,0
+529821642,2018-05-19 01:09:00,Exciting news!,elonmusk,Elon Musk,150000000,38,271,13,3,2018,5,19,1,9,4,False,False,Tech,erratic,1,0
 855730105,2018-05-19 07:08:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1230,4606,300,90,2018,5,19,7,8,26,False,False,Tech,informative,1,1
 558813156,2018-05-19 10:22:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,877,5788,359,107,2018,5,19,10,22,29,True,True,Science,professional,0,0
 859889779,2018-05-19 14:21:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1789,7448,501,150,2018,5,19,14,21,27,False,False,Politics,thoughtful,0,0
@@ -475,7 +475,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 864378175,2018-07-05 09:38:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,130,795,25,7,2018,7,5,9,38,6,False,False,Tech,erratic,0,0
 369563016,2018-07-05 16:57:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,96,407,8,2,2018,7,5,16,57,18,False,True,Tech,informative,0,0
 65377559,2018-07-06 04:19:00,Excited to share our latest project in Tech. More soon!,BillGates,Bill Gates,62000000,315,1337,84,25,2018,7,6,4,19,14,False,True,Tech,informative,0,0
-518824114,2018-07-06 14:17:00,Working hard! 💪,elonmusk,Elon Musk,150000000,113,461,24,7,2018,7,6,14,17,2,False,False,Tech,erratic,0,0
+518824114,2018-07-06 14:17:00,Working hard!,elonmusk,Elon Musk,150000000,113,461,24,7,2018,7,6,14,17,2,False,False,Tech,erratic,0,0
 849277665,2018-07-06 20:15:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,338,2632,188,56,2018,7,6,20,15,25,False,False,Politics,thoughtful,0,0
 583050353,2018-07-06 21:17:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,600,2026,63,18,2018,7,6,21,17,27,False,False,Music,consistent,2,1
 575313533,2018-07-07 03:58:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1333,5280,145,43,2018,7,7,3,58,21,False,False,Music,consistent,0,0
@@ -553,7 +553,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 900148476,2018-08-01 18:42:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,404,2732,208,62,2018,8,1,18,42,27,False,False,Politics,thoughtful,1,0
 928950621,2018-08-02 01:26:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,373,3636,76,22,2018,8,2,1,26,24,False,False,Politics,thoughtful,1,1
 865185973,2018-08-02 06:37:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,377,1650,117,35,2018,8,2,6,37,21,False,False,Politics,thoughtful,0,0
-844154498,2018-08-02 12:25:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,126,1175,41,12,2018,8,2,12,25,4,False,False,Tech,erratic,1,1
+844154498,2018-08-02 12:25:00,Thank you all!,elonmusk,Elon Musk,150000000,126,1175,41,12,2018,8,2,12,25,4,False,False,Tech,erratic,1,1
 605996267,2018-08-02 13:21:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,588,2293,106,31,2018,8,2,13,21,16,False,False,Science,professional,0,0
 134503250,2018-08-02 13:55:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,901,4097,249,74,2018,8,2,13,55,22,False,False,Tech,informative,1,0
 144786735,2018-08-02 16:40:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,414,2249,84,25,2018,8,2,16,40,22,False,False,Music,consistent,0,0
@@ -642,7 +642,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 923765867,2018-09-05 01:54:00,Great conversation today about innovation and the future.,NASA,NASA,75000000,353,1331,67,20,2018,9,5,1,54,13,False,False,Science,professional,0,0
 83791225,2018-09-05 23:20:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,91,586,25,7,2018,9,5,23,20,9,False,False,Science,professional,0,0
 804548164,2018-09-06 12:03:00,Great conversation today about innovation and the future.,NASA,NASA,75000000,675,4584,114,34,2018,9,6,12,3,13,False,True,Science,professional,2,0
-33166472,2018-09-06 15:56:00,Great day! 🎉,elonmusk,Elon Musk,150000000,106,803,47,14,2018,9,6,15,56,4,False,False,Tech,erratic,0,0
+33166472,2018-09-06 15:56:00,Great day!,elonmusk,Elon Musk,150000000,106,803,47,14,2018,9,6,15,56,4,False,False,Tech,erratic,0,0
 318894127,2018-09-06 18:44:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,344,1719,54,16,2018,9,6,18,44,20,False,False,Music,consistent,2,0
 122011242,2018-09-07 08:53:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,202,883,40,12,2018,9,7,8,53,14,False,True,Tech,erratic,0,0
 655840038,2018-09-08 03:14:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,565,4988,293,87,2018,9,8,3,14,21,False,False,Music,consistent,1,1
@@ -716,7 +716,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 33860229,2018-10-05 22:28:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,223,1187,84,25,2018,10,5,22,28,18,False,False,Science,professional,0,2
 516994545,2018-10-06 09:12:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1189,5878,173,51,2018,10,6,9,12,27,False,False,Politics,thoughtful,0,0
 42535200,2018-10-06 13:11:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,425,2479,185,55,2018,10,6,13,11,18,True,False,Music,consistent,0,0
-12994416,2018-10-06 14:33:00,Great day! 🎉,elonmusk,Elon Musk,150000000,47,335,7,2,2018,10,6,14,33,3,False,False,Tech,erratic,0,0
+12994416,2018-10-06 14:33:00,Great day!,elonmusk,Elon Musk,150000000,47,335,7,2,2018,10,6,14,33,3,False,False,Tech,erratic,0,0
 570179936,2018-10-06 16:50:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,857,3456,169,50,2018,10,6,16,50,16,False,False,Science,professional,0,0
 147167184,2018-10-06 20:01:00,Great conversation today about innovation and the future.,NASA,NASA,75000000,278,2440,145,43,2018,10,6,20,1,12,False,False,Science,professional,1,0
 973928934,2018-10-07 04:43:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1036,3848,181,54,2018,10,7,4,43,27,False,True,Politics,thoughtful,0,0
@@ -786,13 +786,13 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 11155424,2018-10-25 22:58:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,433,3581,218,65,2018,10,25,22,58,29,False,False,Politics,thoughtful,1,1
 101411459,2018-10-26 00:46:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,306,2043,108,32,2018,10,26,0,46,6,False,False,Tech,erratic,2,0
 23073764,2018-10-26 21:33:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,328,2750,203,60,2018,10,26,21,33,22,False,False,Politics,thoughtful,0,0
-829343075,2018-11-01 05:46:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,175,888,58,17,2018,11,1,5,46,3,True,True,Tech,erratic,0,1
+829343075,2018-11-01 05:46:00,Exciting news!,elonmusk,Elon Musk,150000000,175,888,58,17,2018,11,1,5,46,3,True,True,Tech,erratic,0,1
 688704889,2018-11-01 06:30:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,145,1391,95,28,2018,11,1,6,30,22,False,False,Politics,thoughtful,0,0
 410692983,2018-11-02 15:33:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,530,2355,161,48,2018,11,2,15,33,15,False,False,Science,professional,0,0
 669253375,2018-11-03 22:33:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,490,2212,103,30,2018,11,3,22,33,20,False,False,Science,professional,0,0
 351263767,2018-11-04 06:15:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,567,1984,113,33,2018,11,4,6,15,17,False,True,Tech,informative,0,0
 30427592,2018-11-05 04:14:00,Great conversation today about innovation and the future.,NASA,NASA,75000000,262,1611,92,27,2018,11,5,4,14,12,False,False,Science,professional,1,0
-328468055,2018-11-05 14:36:00,Working hard! 💪,elonmusk,Elon Musk,150000000,57,278,18,5,2018,11,5,14,36,4,False,False,Tech,erratic,1,0
+328468055,2018-11-05 14:36:00,Working hard!,elonmusk,Elon Musk,150000000,57,278,18,5,2018,11,5,14,36,4,False,False,Tech,erratic,1,0
 469964070,2018-11-05 19:10:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,2187,7495,303,90,2018,11,5,19,10,39,False,False,Tech,erratic,0,0
 83578965,2018-11-06 00:29:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,108,1006,59,17,2018,11,6,0,29,16,False,False,Tech,informative,0,0
 741480280,2018-11-06 13:24:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,616,2237,77,23,2018,11,6,13,24,23,False,True,Science,professional,0,1
@@ -805,7 +805,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 649509479,2018-11-08 18:59:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,500,2581,121,36,2018,11,8,18,59,22,False,False,Music,consistent,0,0
 599285692,2018-11-08 21:03:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1529,5240,225,67,2018,11,8,21,3,24,False,False,Politics,thoughtful,0,0
 559732404,2018-11-08 22:43:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,643,4284,187,56,2018,11,8,22,43,21,False,False,Tech,informative,3,0
-404367547,2018-11-09 02:24:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,51,191,4,1,2018,11,9,2,24,2,False,False,Tech,erratic,0,0
+404367547,2018-11-09 02:24:00,Thank you all!,elonmusk,Elon Musk,150000000,51,191,4,1,2018,11,9,2,24,2,False,False,Tech,erratic,0,0
 256683061,2018-11-09 14:54:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,246,1700,60,18,2018,11,9,14,54,24,False,False,Politics,thoughtful,1,0
 127804733,2018-11-10 02:49:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,1806,9111,726,217,2018,11,10,2,49,18,False,False,Tech,erratic,1,0
 223956819,2018-11-10 05:03:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,483,2144,161,48,2018,11,10,5,3,27,False,True,Science,professional,0,0
@@ -886,7 +886,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 837674566,2018-12-11 13:38:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,169,1521,66,19,2018,12,11,13,38,22,False,False,Music,consistent,1,0
 143000810,2018-12-12 11:19:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,1071,3848,201,60,2018,12,12,11,19,22,False,False,Tech,erratic,0,0
 94577788,2018-12-12 11:50:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,258,1511,55,16,2018,12,12,11,50,20,False,False,Politics,thoughtful,0,0
-160077652,2018-12-12 12:30:00,Working hard! 💪,elonmusk,Elon Musk,150000000,91,453,21,6,2018,12,12,12,30,3,False,True,Tech,erratic,0,0
+160077652,2018-12-12 12:30:00,Working hard!,elonmusk,Elon Musk,150000000,91,453,21,6,2018,12,12,12,30,3,False,True,Tech,erratic,0,0
 562174584,2018-12-13 00:00:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1003,9066,257,77,2018,12,13,0,0,32,False,False,Politics,thoughtful,0,0
 179260520,2018-12-13 00:50:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,291,1488,79,23,2018,12,13,0,50,18,False,False,Politics,thoughtful,1,1
 260775931,2018-12-14 23:17:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,371,2532,112,33,2018,12,14,23,17,17,False,False,Politics,thoughtful,0,1
@@ -952,7 +952,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 977889939,2019-01-06 22:46:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,318,1823,77,23,2019,1,6,22,46,22,False,True,Music,consistent,1,1
 660223207,2019-01-07 05:04:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,493,2650,148,44,2019,1,7,5,4,29,True,False,Politics,thoughtful,1,0
 560722170,2019-01-07 06:41:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,262,1521,71,21,2019,1,7,6,41,14,False,False,Tech,erratic,0,0
-220911709,2019-01-07 20:30:00,Great day! 🎉,elonmusk,Elon Musk,150000000,42,365,18,5,2019,1,7,20,30,3,False,False,Tech,erratic,0,0
+220911709,2019-01-07 20:30:00,Great day!,elonmusk,Elon Musk,150000000,42,365,18,5,2019,1,7,20,30,3,False,False,Tech,erratic,0,0
 939266038,2019-01-07 22:25:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,464,4287,261,78,2019,1,7,22,25,25,False,False,Music,consistent,1,0
 741226512,2019-01-08 16:08:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,230,1531,70,21,2019,1,8,16,8,10,False,True,Tech,erratic,1,0
 771313337,2019-01-09 08:36:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1005,3830,146,43,2019,1,9,8,36,19,False,False,Music,consistent,0,1
@@ -975,12 +975,12 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 915704551,2019-01-13 13:36:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,139,550,16,4,2019,1,13,13,36,8,False,False,Tech,erratic,0,0
 421405835,2019-01-14 03:10:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1402,5140,343,102,2019,1,14,3,10,30,False,False,Politics,thoughtful,1,0
 714005292,2019-01-14 04:07:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,955,5225,192,57,2019,1,14,4,7,26,False,False,Politics,thoughtful,3,0
-288918424,2019-01-14 09:29:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,68,578,37,11,2019,1,14,9,29,4,True,True,Tech,erratic,2,0
+288918424,2019-01-14 09:29:00,Exciting news!,elonmusk,Elon Musk,150000000,68,578,37,11,2019,1,14,9,29,4,True,True,Tech,erratic,2,0
 523094027,2019-01-14 14:43:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,609,2556,176,52,2019,1,14,14,43,19,False,False,Politics,thoughtful,1,0
 452280782,2019-01-15 04:44:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,965,6192,134,40,2019,1,15,4,44,24,False,False,Music,consistent,0,0
 485095129,2019-01-15 11:27:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,224,2242,82,24,2019,1,15,11,27,12,False,False,Science,professional,0,0
 897546843,2019-01-15 12:30:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,37,176,6,1,2019,1,15,12,30,6,False,False,Tech,erratic,1,0
-762409194,2019-01-16 03:17:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,132,566,26,7,2019,1,16,3,17,3,False,False,Tech,erratic,0,0
+762409194,2019-01-16 03:17:00,Thank you all!,elonmusk,Elon Musk,150000000,132,566,26,7,2019,1,16,3,17,3,False,False,Tech,erratic,0,0
 628144226,2019-01-16 09:12:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,195,916,29,8,2019,1,16,9,12,7,False,False,Tech,erratic,1,0
 616496119,2019-01-16 10:30:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,258,1032,80,24,2019,1,16,10,30,24,False,False,Music,consistent,1,0
 47929820,2019-01-16 14:15:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,328,2579,206,61,2019,1,16,14,15,18,True,False,Music,consistent,0,0
@@ -996,7 +996,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 32053986,2019-01-21 14:32:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,407,2991,145,43,2019,1,21,14,32,18,False,False,Science,professional,1,0
 908382081,2019-01-22 14:25:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,402,1495,48,14,2019,1,22,14,25,9,False,False,Tech,erratic,2,0
 675990415,2019-01-22 15:20:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,967,3752,229,68,2019,1,22,15,20,18,False,False,Science,professional,0,0
-962091955,2019-01-22 16:12:00,Working hard! 💪,elonmusk,Elon Musk,150000000,123,761,35,10,2019,1,22,16,12,4,False,False,Tech,erratic,2,0
+962091955,2019-01-22 16:12:00,Working hard!,elonmusk,Elon Musk,150000000,123,761,35,10,2019,1,22,16,12,4,False,False,Tech,erratic,2,0
 509090259,2019-01-23 16:51:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,358,1699,118,35,2019,1,23,16,51,16,False,False,Tech,erratic,1,0
 693661277,2019-01-23 17:22:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,144,1287,63,18,2019,1,23,17,22,15,False,False,Science,professional,0,0
 346584393,2019-01-23 20:53:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,995,4213,163,48,2019,1,23,20,53,19,False,False,Music,consistent,0,0
@@ -1022,9 +1022,9 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 874151898,2019-02-04 07:31:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,651,2185,88,26,2019,2,4,7,31,7,False,True,Tech,erratic,0,1
 26669803,2019-02-04 19:22:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,574,4661,342,102,2019,2,4,19,22,15,False,False,Tech,informative,0,0
 608118081,2019-02-05 00:24:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,606,3256,172,51,2019,2,5,0,24,21,False,False,Music,consistent,0,1
-80485363,2019-02-06 04:01:00,Great day! 🎉,elonmusk,Elon Musk,150000000,33,267,13,3,2019,2,6,4,1,2,False,True,Tech,erratic,0,0
+80485363,2019-02-06 04:01:00,Great day!,elonmusk,Elon Musk,150000000,33,267,13,3,2019,2,6,4,1,2,False,True,Tech,erratic,0,0
 306234051,2019-02-06 04:33:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,519,2386,53,15,2019,2,6,4,33,18,False,False,Tech,informative,1,0
-239158662,2019-02-06 06:55:00,Great day! 🎉,elonmusk,Elon Musk,150000000,61,362,20,6,2019,2,6,6,55,3,False,False,Tech,erratic,0,0
+239158662,2019-02-06 06:55:00,Great day!,elonmusk,Elon Musk,150000000,61,362,20,6,2019,2,6,6,55,3,False,False,Tech,erratic,0,0
 507755897,2019-02-06 09:45:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,122,943,71,21,2019,2,6,9,45,5,False,True,Tech,erratic,0,0
 726660347,2019-02-07 16:18:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,537,3228,177,53,2019,2,7,16,18,22,True,False,Science,professional,0,0
 778433857,2019-02-07 16:31:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1327,5173,196,58,2019,2,7,16,31,26,False,False,Politics,thoughtful,1,0
@@ -1140,7 +1140,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 3210505,2019-03-26 17:14:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,401,3053,96,28,2019,3,26,17,14,15,False,False,Tech,informative,1,0
 364232374,2019-03-26 19:01:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,689,3352,91,27,2019,3,26,19,1,19,False,False,Politics,thoughtful,3,1
 301379121,2019-03-27 14:47:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1173,4392,280,84,2019,3,27,14,47,21,False,True,Music,consistent,0,1
-44722170,2019-04-01 07:16:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,88,667,49,14,2019,4,1,7,16,3,False,True,Tech,erratic,0,1
+44722170,2019-04-01 07:16:00,Thank you all!,elonmusk,Elon Musk,150000000,88,667,49,14,2019,4,1,7,16,3,False,True,Tech,erratic,0,1
 678749106,2019-04-03 02:13:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,344,1912,60,18,2019,4,3,2,13,5,False,False,Tech,erratic,0,0
 783315322,2019-04-03 02:33:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1134,4478,130,39,2019,4,3,2,33,16,False,False,Tech,informative,0,0
 568309877,2019-04-03 06:38:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1367,5688,346,103,2019,4,3,6,38,25,False,False,Politics,thoughtful,0,0
@@ -1233,7 +1233,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 159741689,2019-05-08 00:06:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,492,2860,217,65,2019,5,8,0,6,21,False,False,Music,consistent,1,0
 648807589,2019-05-08 12:14:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,130,1187,87,26,2019,5,8,12,14,14,False,False,Tech,erratic,0,0
 295708759,2019-05-08 22:53:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,2489,9095,376,112,2019,5,8,22,53,23,False,False,Music,consistent,1,0
-680009125,2019-05-09 21:47:00,Working hard! 💪,elonmusk,Elon Musk,150000000,57,433,12,3,2019,5,9,21,47,4,False,False,Tech,erratic,0,0
+680009125,2019-05-09 21:47:00,Working hard!,elonmusk,Elon Musk,150000000,57,433,12,3,2019,5,9,21,47,4,False,False,Tech,erratic,0,0
 74068056,2019-05-10 03:08:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,180,1445,41,12,2019,5,10,3,8,20,False,False,Science,professional,0,0
 632565651,2019-05-10 05:58:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,679,4116,90,27,2019,5,10,5,58,22,False,False,Music,consistent,0,1
 219328222,2019-05-10 16:44:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,391,1794,94,28,2019,5,10,16,44,12,False,False,Tech,erratic,0,1
@@ -1286,7 +1286,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 661727354,2019-05-24 06:56:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,572,4049,309,92,2019,5,24,6,56,19,False,True,Science,professional,0,0
 263239767,2019-05-24 06:56:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1367,4571,256,76,2019,5,24,6,56,21,False,False,Music,consistent,0,0
 862682619,2019-05-24 08:12:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,465,3550,114,34,2019,5,24,8,12,21,False,False,Politics,thoughtful,2,0
-79880363,2019-05-24 14:34:00,Great day! 🎉,elonmusk,Elon Musk,150000000,68,546,27,8,2019,5,24,14,34,2,False,False,Tech,erratic,0,0
+79880363,2019-05-24 14:34:00,Great day!,elonmusk,Elon Musk,150000000,68,546,27,8,2019,5,24,14,34,2,False,False,Tech,erratic,0,0
 565888081,2019-05-24 15:55:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,232,866,68,20,2019,5,24,15,55,16,False,False,Science,professional,0,0
 17393301,2019-05-24 17:16:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,395,1748,97,29,2019,5,24,17,16,20,False,False,Music,consistent,0,0
 926215521,2019-05-25 03:17:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,97,526,37,11,2019,5,25,3,17,12,True,False,Tech,erratic,0,0
@@ -1365,7 +1365,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 974136992,2019-06-22 11:49:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,394,2465,71,21,2019,6,22,11,49,20,False,False,Tech,erratic,0,0
 499207555,2019-06-22 23:35:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,441,1592,101,30,2019,6,22,23,35,19,False,False,Music,consistent,0,0
 512732758,2019-06-23 12:56:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,933,3589,283,84,2019,6,23,12,56,25,False,False,Music,consistent,1,0
-284974758,2019-06-23 16:02:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,50,243,8,2,2019,6,23,16,2,4,False,True,Tech,erratic,1,0
+284974758,2019-06-23 16:02:00,Exciting news!,elonmusk,Elon Musk,150000000,50,243,8,2,2019,6,23,16,2,4,False,True,Tech,erratic,1,0
 148454069,2019-06-24 12:59:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,465,1684,45,13,2019,6,24,12,59,24,False,True,Music,consistent,1,0
 522106161,2019-06-25 04:35:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1087,3661,89,26,2019,6,25,4,35,29,False,False,Politics,thoughtful,0,0
 504230022,2019-06-25 17:44:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,392,2321,151,45,2019,6,25,17,44,13,False,False,Tech,erratic,0,0
@@ -1443,7 +1443,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 175645455,2019-07-21 20:05:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,769,3166,232,69,2019,7,21,20,5,19,False,False,Music,consistent,0,0
 721529342,2019-07-21 21:41:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,665,2970,165,49,2019,7,21,21,41,23,False,False,Science,professional,0,0
 652950539,2019-07-22 03:13:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,410,2993,81,24,2019,7,22,3,13,24,False,False,Science,professional,0,0
-82384505,2019-07-22 15:15:00,Working hard! 💪,elonmusk,Elon Musk,150000000,56,263,12,3,2019,7,22,15,15,3,False,False,Tech,erratic,0,1
+82384505,2019-07-22 15:15:00,Working hard!,elonmusk,Elon Musk,150000000,56,263,12,3,2019,7,22,15,15,3,False,False,Tech,erratic,0,1
 291989779,2019-07-22 16:41:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,706,3360,80,24,2019,7,22,16,41,24,False,True,Music,consistent,1,0
 408280857,2019-07-23 23:15:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,519,3196,173,51,2019,7,23,23,15,19,False,False,Tech,erratic,1,0
 896967222,2019-07-24 01:31:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,456,2213,60,18,2019,7,24,1,31,19,True,False,Politics,thoughtful,0,0
@@ -1824,7 +1824,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 210974022,2019-12-17 23:13:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,391,3145,151,45,2019,12,17,23,13,15,False,False,Science,professional,0,0
 44548888,2019-12-18 02:31:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1447,5320,144,43,2019,12,18,2,31,19,False,False,Tech,informative,1,0
 670167330,2019-12-18 05:29:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,197,1806,143,42,2019,12,18,5,29,15,False,True,Science,professional,0,0
-790739580,2019-12-18 16:50:00,Great day! 🎉,elonmusk,Elon Musk,150000000,56,563,40,12,2019,12,18,16,50,3,False,False,Tech,erratic,1,0
+790739580,2019-12-18 16:50:00,Great day!,elonmusk,Elon Musk,150000000,56,563,40,12,2019,12,18,16,50,3,False,False,Tech,erratic,1,0
 276467604,2019-12-19 04:57:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,562,4403,96,28,2019,12,19,4,57,19,False,True,Science,professional,2,0
 234029116,2019-12-20 03:30:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,790,3861,267,80,2019,12,20,3,30,16,False,False,Science,professional,0,0
 679624028,2019-12-20 11:28:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,384,2637,81,24,2019,12,20,11,28,22,False,False,Science,professional,1,1
@@ -1968,7 +1968,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 188575247,2020-02-20 14:53:00,Great conversation today about innovation and the future.,NASA,NASA,75000000,407,1441,79,23,2020,2,20,14,53,13,False,False,Science,professional,3,0
 630010315,2020-02-20 18:18:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,115,902,22,6,2020,2,20,18,18,8,False,False,Tech,erratic,1,2
 392332317,2020-02-21 10:51:00,Excited to share our latest project in Tech. More soon!,BillGates,Bill Gates,62000000,1155,4080,178,53,2020,2,21,10,51,14,False,True,Tech,informative,0,0
-38706411,2020-02-21 22:53:00,Great day! 🎉,elonmusk,Elon Musk,150000000,50,330,17,5,2020,2,21,22,53,4,False,False,Tech,erratic,1,0
+38706411,2020-02-21 22:53:00,Great day!,elonmusk,Elon Musk,150000000,50,330,17,5,2020,2,21,22,53,4,False,False,Tech,erratic,1,0
 640765014,2020-02-22 17:48:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,409,3163,67,20,2020,2,22,17,48,17,False,True,Science,professional,1,0
 36247511,2020-02-22 17:56:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1120,4952,307,92,2020,2,22,17,56,27,False,False,Politics,thoughtful,0,0
 730659883,2020-02-22 20:49:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,925,3307,199,59,2020,2,22,20,49,21,False,True,Tech,informative,0,0
@@ -2016,7 +2016,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 236984306,2020-03-11 07:42:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,678,4123,307,92,2020,3,11,7,42,27,False,False,Tech,informative,1,0
 837294338,2020-03-12 20:38:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,656,2594,111,33,2020,3,12,20,38,20,False,False,Tech,informative,1,1
 717053493,2020-03-12 23:44:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1874,6453,493,147,2020,3,12,23,44,30,False,False,Politics,thoughtful,0,1
-305716406,2020-03-13 05:58:00,Great day! 🎉,elonmusk,Elon Musk,150000000,124,807,60,18,2020,3,13,5,58,4,True,False,Tech,erratic,2,0
+305716406,2020-03-13 05:58:00,Great day!,elonmusk,Elon Musk,150000000,124,807,60,18,2020,3,13,5,58,4,True,False,Tech,erratic,2,0
 539016262,2020-03-13 08:09:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,373,2806,95,28,2020,3,13,8,9,17,False,False,Tech,informative,1,0
 620612159,2020-03-13 08:10:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,114,638,40,12,2020,3,13,8,10,15,False,False,Tech,erratic,1,0
 638443265,2020-03-13 09:29:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,504,3282,163,48,2020,3,13,9,29,19,False,True,Music,consistent,1,0
@@ -2091,7 +2091,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 529641633,2020-04-15 12:11:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,393,3159,159,47,2020,4,15,12,11,22,False,False,Music,consistent,0,0
 451725028,2020-04-15 17:08:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,315,1197,76,22,2020,4,15,17,8,10,False,False,Tech,erratic,2,0
 27706038,2020-04-16 05:39:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,952,3527,265,79,2020,4,16,5,39,21,False,False,Politics,thoughtful,0,0
-104414577,2020-04-16 08:57:00,Working hard! 💪,elonmusk,Elon Musk,150000000,27,170,5,1,2020,4,16,8,57,2,False,False,Tech,erratic,0,0
+104414577,2020-04-16 08:57:00,Working hard!,elonmusk,Elon Musk,150000000,27,170,5,1,2020,4,16,8,57,2,False,False,Tech,erratic,0,0
 297523435,2020-04-16 21:28:00,Great conversation today about innovation and the future.,NASA,NASA,75000000,279,1411,59,17,2020,4,16,21,28,13,False,False,Science,professional,1,0
 163469529,2020-04-17 04:40:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,674,6104,459,137,2020,4,17,4,40,19,False,True,Music,consistent,0,0
 765277252,2020-04-17 05:10:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,187,1413,45,13,2020,4,17,5,10,18,False,False,Tech,informative,0,0
@@ -2100,7 +2100,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 795698985,2020-04-17 21:30:00,Proud of what we're building. Stay tuned for updates.,BillGates,Bill Gates,62000000,342,1661,63,18,2020,4,17,21,30,13,False,True,Tech,informative,1,0
 897608507,2020-04-18 06:10:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,427,3151,77,23,2020,4,18,6,10,17,False,False,Tech,erratic,0,0
 648337078,2020-04-18 22:23:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,212,1210,57,17,2020,4,18,22,23,27,False,True,Politics,thoughtful,0,0
-617385115,2020-04-19 00:35:00,Working hard! 💪,elonmusk,Elon Musk,150000000,133,1028,41,12,2020,4,19,0,35,4,False,True,Tech,erratic,1,0
+617385115,2020-04-19 00:35:00,Working hard!,elonmusk,Elon Musk,150000000,133,1028,41,12,2020,4,19,0,35,4,False,True,Tech,erratic,1,0
 922555924,2020-04-20 08:01:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1168,4109,204,61,2020,4,20,8,1,20,False,False,Music,consistent,1,0
 403650051,2020-04-20 13:07:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,501,2233,54,16,2020,4,20,13,7,20,True,True,Music,consistent,0,0
 7611583,2020-04-20 14:05:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,529,2851,135,40,2020,4,20,14,5,25,False,False,Politics,thoughtful,0,0
@@ -2129,7 +2129,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 498352435,2020-05-03 00:18:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,419,3088,149,44,2020,5,3,0,18,24,False,False,Politics,thoughtful,1,0
 908053979,2020-05-04 00:38:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,579,4816,183,54,2020,5,4,0,38,19,False,False,Music,consistent,0,0
 542856458,2020-05-04 01:31:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,474,2776,119,35,2020,5,4,1,31,19,False,False,Tech,informative,1,0
-220638330,2020-05-04 16:52:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,115,459,28,8,2020,5,4,16,52,4,False,False,Tech,erratic,0,0
+220638330,2020-05-04 16:52:00,Exciting news!,elonmusk,Elon Musk,150000000,115,459,28,8,2020,5,4,16,52,4,False,False,Tech,erratic,0,0
 227165594,2020-05-05 00:18:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,175,991,22,6,2020,5,5,0,18,21,False,False,Science,professional,0,0
 165697801,2020-05-05 03:54:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,334,3120,228,68,2020,5,5,3,54,24,False,False,Music,consistent,1,0
 25037664,2020-05-05 07:25:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,1047,4253,114,34,2020,5,5,7,25,19,False,False,Science,professional,2,0
@@ -2206,7 +2206,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 459255607,2020-06-08 12:04:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1022,3926,91,27,2020,6,8,12,4,36,False,False,Tech,informative,0,0
 420666438,2020-06-10 00:10:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,416,3789,162,48,2020,6,10,0,10,20,False,True,Politics,thoughtful,0,0
 893168291,2020-06-10 00:25:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1817,7087,556,166,2020,6,10,0,25,18,False,False,Tech,informative,2,0
-456661333,2020-06-10 16:48:00,Great day! 🎉,elonmusk,Elon Musk,150000000,122,589,20,6,2020,6,10,16,48,3,False,False,Tech,erratic,0,0
+456661333,2020-06-10 16:48:00,Great day!,elonmusk,Elon Musk,150000000,122,589,20,6,2020,6,10,16,48,3,False,False,Tech,erratic,0,0
 154899634,2020-06-10 19:48:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,778,3309,250,75,2020,6,10,19,48,25,False,False,Music,consistent,0,0
 755013928,2020-06-11 08:48:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,817,6819,268,80,2020,6,11,8,48,28,False,False,Tech,informative,0,0
 897138652,2020-06-11 14:43:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,443,2895,177,53,2020,6,11,14,43,26,False,True,Politics,thoughtful,1,0
@@ -2216,7 +2216,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 335500398,2020-06-12 06:26:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,531,2467,185,55,2020,6,12,6,26,20,False,False,Music,consistent,1,0
 530170567,2020-06-12 16:15:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,125,1163,25,7,2020,6,12,16,15,8,False,False,Tech,erratic,0,0
 344877291,2020-06-13 13:27:00,Proud of what we're building. Stay tuned for updates.,BillGates,Bill Gates,62000000,1594,9802,513,153,2020,6,13,13,27,13,False,False,Tech,informative,0,0
-868001152,2020-06-14 01:25:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,97,374,22,6,2020,6,14,1,25,4,False,False,Tech,erratic,0,1
+868001152,2020-06-14 01:25:00,Exciting news!,elonmusk,Elon Musk,150000000,97,374,22,6,2020,6,14,1,25,4,False,False,Tech,erratic,0,1
 593269902,2020-06-14 17:33:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,787,2948,98,29,2020,6,14,17,33,31,False,False,Politics,thoughtful,1,0
 174236096,2020-06-14 21:18:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,462,2177,140,42,2020,6,14,21,18,23,False,False,Music,consistent,1,0
 735674486,2020-06-15 02:08:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1247,9206,305,91,2020,6,15,2,8,33,False,False,Politics,thoughtful,0,0
@@ -2294,7 +2294,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 814434759,2020-07-11 09:31:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1150,6729,425,127,2020,7,11,9,31,23,False,False,Music,consistent,0,0
 434495027,2020-07-11 11:47:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,678,2697,167,50,2020,7,11,11,47,20,False,False,Politics,thoughtful,0,0
 215408407,2020-07-11 14:29:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,471,4205,335,100,2020,7,11,14,29,21,False,False,Music,consistent,0,0
-379837696,2020-07-12 10:32:00,Working hard! 💪,elonmusk,Elon Musk,150000000,156,533,25,7,2020,7,12,10,32,2,True,False,Tech,erratic,2,0
+379837696,2020-07-12 10:32:00,Working hard!,elonmusk,Elon Musk,150000000,156,533,25,7,2020,7,12,10,32,2,True,False,Tech,erratic,2,0
 966991522,2020-07-12 13:10:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,228,1708,122,36,2020,7,12,13,10,16,False,True,Tech,informative,0,1
 390103258,2020-07-12 13:32:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1581,6021,170,51,2020,7,12,13,32,22,False,False,Music,consistent,0,1
 348368860,2020-07-12 13:59:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1744,7814,595,178,2020,7,12,13,59,20,False,False,Music,consistent,0,0
@@ -2323,7 +2323,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 171276790,2020-07-21 01:41:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,138,782,57,17,2020,7,21,1,41,22,False,False,Tech,informative,0,0
 200788643,2020-07-21 05:25:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1701,5741,168,50,2020,7,21,5,25,34,False,False,Politics,thoughtful,0,0
 658411962,2020-07-21 19:23:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,341,3041,157,47,2020,7,21,19,23,25,False,True,Politics,thoughtful,0,0
-680959666,2020-07-22 06:54:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,197,1203,76,22,2020,7,22,6,54,3,False,True,Tech,erratic,0,0
+680959666,2020-07-22 06:54:00,Thank you all!,elonmusk,Elon Musk,150000000,197,1203,76,22,2020,7,22,6,54,3,False,True,Tech,erratic,0,0
 176748454,2020-07-22 09:29:00,Excited to share our latest project in Politics. More soon!,BarackObama,Barack Obama,132000000,549,2533,73,21,2020,7,22,9,29,13,False,False,Politics,thoughtful,0,0
 988091913,2020-07-22 11:01:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,460,2685,62,18,2020,7,22,11,1,16,False,False,Science,professional,0,1
 672932954,2020-07-22 13:12:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1523,9925,400,120,2020,7,22,13,12,22,True,False,Tech,informative,1,0
@@ -2371,7 +2371,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 93914338,2020-08-13 16:59:00,Proud of what we're building. Stay tuned for updates.,BillGates,Bill Gates,62000000,308,2374,108,32,2020,8,13,16,59,13,False,False,Tech,informative,4,0
 489839520,2020-08-13 17:13:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,245,1653,70,21,2020,8,13,17,13,17,False,False,Music,consistent,0,0
 149260639,2020-08-13 23:45:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,378,1816,124,37,2020,8,13,23,45,20,False,False,Music,consistent,1,0
-991249264,2020-08-15 13:34:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,89,667,13,3,2020,8,15,13,34,4,False,True,Tech,erratic,0,0
+991249264,2020-08-15 13:34:00,Thank you all!,elonmusk,Elon Musk,150000000,89,667,13,3,2020,8,15,13,34,4,False,True,Tech,erratic,0,0
 194287981,2020-08-15 21:50:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,518,2050,89,26,2020,8,15,21,50,21,False,False,Music,consistent,1,0
 435969852,2020-08-16 20:00:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,217,1680,38,11,2020,8,16,20,0,21,False,False,Science,professional,1,1
 41739048,2020-08-16 20:46:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,703,5302,215,64,2020,8,16,20,46,21,False,False,Music,consistent,0,0
@@ -2384,11 +2384,11 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 104737865,2020-08-19 14:18:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,272,1277,46,13,2020,8,19,14,18,16,False,True,Science,professional,0,0
 981235374,2020-08-19 14:50:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,318,1287,50,15,2020,8,19,14,50,10,False,False,Tech,erratic,2,0
 688899873,2020-08-19 21:35:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,552,2759,93,27,2020,8,19,21,35,19,False,False,Politics,thoughtful,0,0
-216159002,2020-08-19 22:04:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,27,116,3,0,2020,8,19,22,4,1,False,False,Tech,erratic,0,1
+216159002,2020-08-19 22:04:00,Thank you all!,elonmusk,Elon Musk,150000000,27,116,3,0,2020,8,19,22,4,1,False,False,Tech,erratic,0,1
 783906331,2020-08-20 04:02:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,179,1370,51,15,2020,8,20,4,2,21,False,False,Music,consistent,1,0
 500332612,2020-08-20 09:31:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,586,2760,195,58,2020,8,20,9,31,26,True,True,Music,consistent,0,0
 275205277,2020-08-20 23:18:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,469,3735,97,29,2020,8,20,23,18,23,False,True,Science,professional,0,0
-613885636,2020-08-21 06:47:00,Working hard! 💪,elonmusk,Elon Musk,150000000,154,746,20,6,2020,8,21,6,47,4,False,False,Tech,erratic,0,0
+613885636,2020-08-21 06:47:00,Working hard!,elonmusk,Elon Musk,150000000,154,746,20,6,2020,8,21,6,47,4,False,False,Tech,erratic,0,0
 190089641,2020-08-21 22:33:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,226,1569,46,13,2020,8,21,22,33,20,False,False,Music,consistent,0,1
 907505918,2020-08-22 11:34:00,This is a detailed tweet about Science. This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,1638,6944,502,150,2020,8,22,11,34,32,False,False,Science,professional,2,0
 504629851,2020-08-22 17:36:00,Great conversation today about innovation and the future.,NASA,NASA,75000000,568,2584,118,35,2020,8,22,17,36,11,False,True,Science,professional,0,0
@@ -2402,13 +2402,13 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 452479610,2020-08-24 14:23:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1083,5663,140,42,2020,8,24,14,23,19,False,True,Music,consistent,0,0
 957900670,2020-08-24 20:57:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,712,2782,61,18,2020,8,24,20,57,21,False,True,Music,consistent,0,0
 908761545,2020-08-26 21:10:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,176,1726,87,26,2020,8,26,21,10,18,False,False,Tech,informative,1,0
-989584033,2020-08-27 00:48:00,Great day! 🎉,elonmusk,Elon Musk,150000000,79,323,15,4,2020,8,27,0,48,3,False,False,Tech,erratic,1,0
+989584033,2020-08-27 00:48:00,Great day!,elonmusk,Elon Musk,150000000,79,323,15,4,2020,8,27,0,48,3,False,False,Tech,erratic,1,0
 900626739,2020-08-27 21:53:00,Proud of what we're building. Stay tuned for updates.,BillGates,Bill Gates,62000000,445,2854,141,42,2020,8,27,21,53,14,False,False,Tech,informative,1,1
 411967719,2020-08-27 22:30:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,572,2095,81,24,2020,8,27,22,30,17,False,False,Tech,informative,0,0
 744599999,2020-09-01 13:23:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,2446,11832,800,240,2020,9,1,13,23,50,False,False,Tech,erratic,0,1
 523129657,2020-09-01 21:16:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,586,3106,179,53,2020,9,1,21,16,30,False,False,Politics,thoughtful,2,0
 25586037,2020-09-02 03:04:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,652,5208,204,61,2020,9,2,3,4,24,False,True,Politics,thoughtful,0,0
-231822131,2020-09-03 16:46:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,152,1389,66,19,2020,9,3,16,46,4,False,False,Tech,erratic,0,0
+231822131,2020-09-03 16:46:00,Exciting news!,elonmusk,Elon Musk,150000000,152,1389,66,19,2020,9,3,16,46,4,False,False,Tech,erratic,0,0
 965489698,2020-09-04 05:22:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,115,848,66,19,2020,9,4,5,22,17,False,False,Science,professional,0,0
 533661544,2020-09-04 09:50:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,591,3173,71,21,2020,9,4,9,50,13,False,False,Tech,erratic,0,1
 95800229,2020-09-04 19:51:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,557,2917,198,59,2020,9,4,19,51,16,False,False,Tech,informative,0,0
@@ -2555,7 +2555,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 806156200,2020-11-03 22:35:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,684,3139,115,34,2020,11,3,22,35,29,False,False,Tech,informative,0,0
 737029546,2020-11-04 16:05:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,549,2042,135,40,2020,11,4,16,5,15,False,False,Science,professional,1,1
 846616832,2020-11-04 16:48:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1081,5316,356,106,2020,11,4,16,48,20,False,False,Music,consistent,0,0
-62551154,2020-11-05 02:58:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,65,361,8,2,2020,11,5,2,58,4,False,False,Tech,erratic,0,0
+62551154,2020-11-05 02:58:00,Exciting news!,elonmusk,Elon Musk,150000000,65,361,8,2,2020,11,5,2,58,4,False,False,Tech,erratic,0,0
 122055131,2020-11-05 03:33:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,1315,4450,143,42,2020,11,5,3,33,20,False,True,Science,professional,1,0
 174958072,2020-11-05 06:45:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,687,2541,162,48,2020,11,5,6,45,16,False,False,Tech,informative,0,0
 355761824,2020-11-05 12:28:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,295,2206,91,27,2020,11,5,12,28,24,False,False,Science,professional,0,0
@@ -2563,7 +2563,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 246683852,2020-11-06 04:20:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,585,2665,113,33,2020,11,6,4,20,13,False,True,Tech,erratic,1,0
 573849724,2020-11-06 04:52:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,666,3160,77,23,2020,11,6,4,52,19,False,False,Tech,informative,0,0
 663965002,2020-11-06 18:07:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,874,3466,216,64,2020,11,6,18,7,24,False,False,Science,professional,2,0
-17629179,2020-11-06 18:36:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,54,335,8,2,2020,11,6,18,36,4,False,True,Tech,erratic,0,1
+17629179,2020-11-06 18:36:00,Thank you all!,elonmusk,Elon Musk,150000000,54,335,8,2,2020,11,6,18,36,4,False,True,Tech,erratic,0,1
 926572371,2020-11-06 22:14:00,Excited to share our latest project in Tech. More soon!,BillGates,Bill Gates,62000000,238,1338,93,27,2020,11,6,22,14,13,True,False,Tech,informative,2,0
 500198437,2020-11-07 08:45:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,951,8353,233,69,2020,11,7,8,45,20,False,False,Music,consistent,1,2
 985815884,2020-11-08 08:44:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,972,4314,191,57,2020,11,8,8,44,21,False,False,Music,consistent,0,1
@@ -2571,7 +2571,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 969105588,2020-11-08 21:15:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,682,2868,104,31,2020,11,8,21,15,15,False,False,Tech,informative,1,0
 287646829,2020-11-08 22:41:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,547,3531,119,35,2020,11,8,22,41,22,False,False,Music,consistent,0,0
 366722969,2020-11-09 10:36:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1129,5908,404,121,2020,11,9,10,36,25,False,False,Music,consistent,0,0
-652644343,2020-11-10 04:43:00,Working hard! 💪,elonmusk,Elon Musk,150000000,67,342,7,2,2020,11,10,4,43,2,False,False,Tech,erratic,1,1
+652644343,2020-11-10 04:43:00,Working hard!,elonmusk,Elon Musk,150000000,67,342,7,2,2020,11,10,4,43,2,False,False,Tech,erratic,1,1
 715402061,2020-11-10 09:55:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,328,1242,80,24,2020,11,10,9,55,14,False,False,Science,professional,1,0
 660080305,2020-11-10 10:51:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,799,3040,135,40,2020,11,10,10,51,20,False,False,Science,professional,0,0
 573028083,2020-11-10 11:13:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,587,4710,362,108,2020,11,10,11,13,23,False,False,Politics,thoughtful,1,1
@@ -2778,7 +2778,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 211923066,2021-02-03 16:25:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,65,624,26,7,2021,2,3,16,25,10,False,False,Tech,erratic,3,0
 557326262,2021-02-03 20:48:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,779,3740,267,80,2021,2,3,20,48,15,False,False,Science,professional,0,0
 301160387,2021-02-04 00:21:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,367,2902,76,22,2021,2,4,0,21,21,False,True,Politics,thoughtful,1,0
-403663475,2021-02-04 06:32:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,131,575,23,6,2021,2,4,6,32,4,False,True,Tech,erratic,1,1
+403663475,2021-02-04 06:32:00,Exciting news!,elonmusk,Elon Musk,150000000,131,575,23,6,2021,2,4,6,32,4,False,True,Tech,erratic,1,1
 327717851,2021-02-04 10:52:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,991,3471,239,71,2021,2,4,10,52,15,False,True,Tech,informative,2,0
 391196515,2021-02-04 14:01:00,Proud of what we're building. Stay tuned for updates.,NASA,NASA,75000000,265,1556,106,31,2021,2,4,14,1,14,False,False,Science,professional,1,0
 320250774,2021-02-04 19:55:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,403,1925,77,23,2021,2,4,19,55,23,False,False,Politics,thoughtful,1,0
@@ -3032,7 +3032,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 253555980,2021-05-06 03:22:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,2707,12601,822,246,2021,5,6,3,22,30,False,False,Tech,informative,0,1
 943877556,2021-05-06 07:52:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,434,2424,118,35,2021,5,6,7,52,20,False,False,Tech,informative,0,0
 747960945,2021-05-06 08:12:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,330,1970,142,42,2021,5,6,8,12,20,False,False,Tech,informative,2,0
-499098048,2021-05-06 15:50:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,31,110,6,1,2021,5,6,15,50,1,False,True,Tech,erratic,0,1
+499098048,2021-05-06 15:50:00,Thank you all!,elonmusk,Elon Musk,150000000,31,110,6,1,2021,5,6,15,50,1,False,True,Tech,erratic,0,1
 532164069,2021-05-07 02:34:00,Great conversation today about innovation and the future.,BillGates,Bill Gates,62000000,355,2617,87,26,2021,5,7,2,34,14,False,False,Tech,informative,4,0
 173429594,2021-05-07 22:31:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,587,2054,125,37,2021,5,7,22,31,24,False,False,Tech,informative,0,0
 246414297,2021-05-08 17:04:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,917,3387,237,71,2021,5,8,17,4,16,False,False,Tech,erratic,3,0
@@ -3123,7 +3123,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 621265798,2021-06-12 01:01:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,1265,6062,256,76,2021,6,12,1,1,28,False,False,Tech,erratic,0,0
 431549594,2021-06-12 07:24:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,683,3530,225,67,2021,6,12,7,24,23,False,False,Music,consistent,0,0
 458403386,2021-06-12 09:20:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,225,932,34,10,2021,6,12,9,20,6,False,False,Tech,erratic,0,1
-208009624,2021-06-12 10:36:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,97,616,17,5,2021,6,12,10,36,4,False,False,Tech,erratic,0,0
+208009624,2021-06-12 10:36:00,Exciting news!,elonmusk,Elon Musk,150000000,97,616,17,5,2021,6,12,10,36,4,False,False,Tech,erratic,0,0
 790573763,2021-06-12 13:32:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1236,4861,103,30,2021,6,12,13,32,36,False,True,Politics,thoughtful,1,0
 431272196,2021-06-12 17:17:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1291,7019,474,142,2021,6,12,17,17,28,False,False,Politics,thoughtful,1,0
 153050980,2021-06-12 21:06:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,206,1408,45,13,2021,6,12,21,6,22,False,False,Science,professional,0,0
@@ -3223,7 +3223,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 356977632,2021-07-18 21:13:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,612,2093,68,20,2021,7,18,21,13,21,False,True,Music,consistent,1,0
 832381549,2021-07-19 09:41:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,446,4154,174,52,2021,7,19,9,41,24,False,False,Music,consistent,0,0
 528415105,2021-07-19 13:03:00,Proud of what we're building. Stay tuned for updates.,NASA,NASA,75000000,697,4462,216,64,2021,7,19,13,3,14,False,True,Science,professional,1,0
-482653815,2021-07-19 13:24:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,87,571,13,3,2021,7,19,13,24,4,False,False,Tech,erratic,2,0
+482653815,2021-07-19 13:24:00,Exciting news!,elonmusk,Elon Musk,150000000,87,571,13,3,2021,7,19,13,24,4,False,False,Tech,erratic,2,0
 402835414,2021-07-19 17:11:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,732,2974,169,50,2021,7,19,17,11,17,False,False,Science,professional,1,0
 376276171,2021-07-19 22:01:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,327,2912,63,18,2021,7,19,22,1,21,True,False,Tech,informative,0,1
 171591527,2021-07-19 22:16:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,215,2056,107,32,2021,7,19,22,16,21,False,False,Music,consistent,1,2
@@ -3325,11 +3325,11 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 486876637,2021-08-22 15:45:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,290,1121,55,16,2021,8,22,15,45,23,True,False,Tech,erratic,1,0
 410895630,2021-08-25 06:18:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,307,2808,220,66,2021,8,25,6,18,15,False,False,Science,professional,1,0
 289859695,2021-08-25 22:10:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,614,2831,78,23,2021,8,25,22,10,22,False,False,Music,consistent,1,0
-641589726,2021-08-27 12:32:00,Working hard! 💪,elonmusk,Elon Musk,150000000,36,345,15,4,2021,8,27,12,32,3,False,True,Tech,erratic,0,0
+641589726,2021-08-27 12:32:00,Working hard!,elonmusk,Elon Musk,150000000,36,345,15,4,2021,8,27,12,32,3,False,True,Tech,erratic,0,0
 819111620,2021-09-01 11:00:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,330,2068,51,15,2021,9,1,11,0,28,False,False,Politics,thoughtful,0,0
 544376089,2021-09-01 20:19:00,Excited to share our latest project in Tech. More soon!,BillGates,Bill Gates,62000000,248,1305,64,19,2021,9,1,20,19,9,False,False,Tech,informative,0,0
 332707214,2021-09-01 23:32:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,626,2448,60,18,2021,9,1,23,32,17,False,False,Tech,informative,0,0
-283122442,2021-09-02 08:00:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,76,517,34,10,2021,9,2,8,0,4,False,False,Tech,erratic,0,1
+283122442,2021-09-02 08:00:00,Exciting news!,elonmusk,Elon Musk,150000000,76,517,34,10,2021,9,2,8,0,4,False,False,Tech,erratic,0,1
 690616454,2021-09-02 09:30:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,187,1731,49,14,2021,9,2,9,30,22,False,False,Politics,thoughtful,1,0
 374377306,2021-09-02 22:33:00,Great conversation today about innovation and the future.,BillGates,Bill Gates,62000000,913,3828,276,82,2021,9,2,22,33,12,False,False,Tech,informative,0,1
 561822215,2021-09-03 06:29:00,This is a detailed tweet about Music. This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,615,3087,196,58,2021,9,3,6,29,30,False,False,Music,consistent,0,1
@@ -3374,7 +3374,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 43501953,2021-09-17 17:06:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,511,3247,161,48,2021,9,17,17,6,22,False,False,Music,consistent,1,1
 278333974,2021-09-18 06:27:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,341,3073,116,34,2021,9,18,6,27,25,False,True,Science,professional,1,0
 600248549,2021-09-18 15:06:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,680,6468,213,63,2021,9,18,15,6,21,False,False,Politics,thoughtful,1,1
-151279709,2021-09-18 16:20:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,104,380,10,3,2021,9,18,16,20,3,False,True,Tech,erratic,1,0
+151279709,2021-09-18 16:20:00,Exciting news!,elonmusk,Elon Musk,150000000,104,380,10,3,2021,9,18,16,20,3,False,True,Tech,erratic,1,0
 942162661,2021-09-18 18:16:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,573,2107,48,14,2021,9,18,18,16,17,False,False,Music,consistent,0,0
 687293909,2021-09-19 03:44:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,907,4485,91,27,2021,9,19,3,44,27,False,True,Politics,thoughtful,0,0
 974926926,2021-09-19 23:00:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,903,4634,270,81,2021,9,19,23,0,23,False,True,Music,consistent,1,0
@@ -3384,14 +3384,14 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 348151885,2021-09-21 07:10:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,463,3431,135,40,2021,9,21,7,10,20,False,False,Science,professional,0,1
 925347598,2021-09-22 02:23:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,949,7892,463,138,2021,9,22,2,23,27,False,True,Politics,thoughtful,0,0
 63688480,2021-09-22 04:53:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,598,4364,272,81,2021,9,22,4,53,26,False,False,Politics,thoughtful,0,1
-730137940,2021-09-22 11:43:00,Great day! 🎉,elonmusk,Elon Musk,150000000,186,790,41,12,2021,9,22,11,43,4,False,False,Tech,erratic,0,0
+730137940,2021-09-22 11:43:00,Great day!,elonmusk,Elon Musk,150000000,186,790,41,12,2021,9,22,11,43,4,False,False,Tech,erratic,0,0
 56659492,2021-09-23 00:07:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,944,4825,261,78,2021,9,23,0,7,37,False,False,Politics,thoughtful,1,0
 115777653,2021-09-23 13:50:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,345,2301,78,23,2021,9,23,13,50,19,False,True,Science,professional,1,0
 32167307,2021-09-23 13:58:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,365,1998,107,32,2021,9,23,13,58,23,False,False,Science,professional,0,0
 679649042,2021-09-23 18:51:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,480,3083,77,23,2021,9,23,18,51,20,False,False,Science,professional,4,0
 149863781,2021-09-24 23:40:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,175,967,44,13,2021,9,24,23,40,12,False,False,Tech,erratic,0,0
 158155733,2021-09-25 00:34:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,498,2007,57,17,2021,9,25,0,34,19,False,False,Tech,erratic,1,1
-813840163,2021-09-25 01:27:00,Working hard! 💪,elonmusk,Elon Musk,150000000,113,620,28,8,2021,9,25,1,27,3,False,False,Tech,erratic,0,0
+813840163,2021-09-25 01:27:00,Working hard!,elonmusk,Elon Musk,150000000,113,620,28,8,2021,9,25,1,27,3,False,False,Tech,erratic,0,0
 314882527,2021-09-25 05:10:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,324,2552,106,31,2021,9,25,5,10,25,False,False,Tech,informative,0,0
 964403751,2021-09-25 05:37:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,477,3841,269,80,2021,9,25,5,37,19,False,False,Music,consistent,1,0
 605561619,2021-09-26 05:21:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1310,6074,440,132,2021,9,26,5,21,25,False,False,Politics,thoughtful,0,0
@@ -3404,7 +3404,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 85175021,2021-10-01 06:00:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,528,2224,155,46,2021,10,1,6,0,17,False,False,Tech,informative,0,0
 691609032,2021-10-01 07:02:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,422,2855,94,28,2021,10,1,7,2,16,False,False,Tech,erratic,0,0
 200252725,2021-10-02 02:58:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,646,2280,77,23,2021,10,2,2,58,18,False,True,Science,professional,1,0
-287076408,2021-10-02 06:06:00,Working hard! 💪,elonmusk,Elon Musk,150000000,134,523,22,6,2021,10,2,6,6,4,True,True,Tech,erratic,0,0
+287076408,2021-10-02 06:06:00,Working hard!,elonmusk,Elon Musk,150000000,134,523,22,6,2021,10,2,6,6,4,True,True,Tech,erratic,0,0
 74270572,2021-10-02 09:55:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,378,1320,93,27,2021,10,2,9,55,15,False,True,Science,professional,0,0
 758038633,2021-10-02 18:46:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,361,2299,71,21,2021,10,2,18,46,9,False,False,Science,professional,1,0
 718315553,2021-10-03 20:05:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,871,4807,266,79,2021,10,3,20,5,21,False,False,Music,consistent,4,0
@@ -3512,10 +3512,10 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 480409157,2021-11-14 01:44:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,550,2167,158,47,2021,11,14,1,44,23,False,False,Music,consistent,1,0
 34281815,2021-11-14 07:05:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,488,4846,369,110,2021,11,14,7,5,20,False,True,Tech,informative,1,0
 33579348,2021-11-14 10:25:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1687,5633,420,126,2021,11,14,10,25,25,False,False,Politics,thoughtful,3,0
-149105743,2021-11-15 03:04:00,Great day! 🎉,elonmusk,Elon Musk,150000000,76,264,19,5,2021,11,15,3,4,2,False,False,Tech,erratic,0,0
+149105743,2021-11-15 03:04:00,Great day!,elonmusk,Elon Musk,150000000,76,264,19,5,2021,11,15,3,4,2,False,False,Tech,erratic,0,0
 558070773,2021-11-15 20:20:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,236,2069,102,30,2021,11,15,20,20,15,False,False,Science,professional,0,0
 458100562,2021-11-15 23:55:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1125,4233,306,91,2021,11,15,23,55,23,False,True,Music,consistent,0,1
-28876231,2021-11-16 13:39:00,Great day! 🎉,elonmusk,Elon Musk,150000000,213,837,41,12,2021,11,16,13,39,4,False,False,Tech,erratic,0,1
+28876231,2021-11-16 13:39:00,Great day!,elonmusk,Elon Musk,150000000,213,837,41,12,2021,11,16,13,39,4,False,False,Tech,erratic,0,1
 369226601,2021-11-16 15:34:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,321,1686,86,25,2021,11,16,15,34,23,False,False,Music,consistent,2,0
 865371339,2021-11-17 08:36:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,310,1802,90,27,2021,11,17,8,36,19,False,False,Tech,erratic,1,0
 89853526,2021-11-17 09:46:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,806,2704,115,34,2021,11,17,9,46,28,False,False,Tech,erratic,0,0
@@ -3602,7 +3602,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 223556146,2021-12-24 03:23:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,393,1329,44,13,2021,12,24,3,23,16,False,False,Science,professional,0,1
 476101740,2021-12-24 12:52:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,720,2920,149,44,2021,12,24,12,52,16,False,False,Tech,erratic,0,0
 680515521,2021-12-24 21:04:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1014,3772,204,61,2021,12,24,21,4,21,False,True,Tech,informative,0,0
-733583977,2021-12-25 01:56:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,18,178,7,2,2021,12,25,1,56,4,False,True,Tech,erratic,1,1
+733583977,2021-12-25 01:56:00,Thank you all!,elonmusk,Elon Musk,150000000,18,178,7,2,2021,12,25,1,56,4,False,True,Tech,erratic,1,1
 115120729,2021-12-25 19:00:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,321,1368,42,12,2021,12,25,19,0,16,True,False,Science,professional,0,0
 574785250,2021-12-26 12:44:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,244,2320,55,16,2021,12,26,12,44,17,False,True,Tech,erratic,0,1
 979523601,2021-12-26 15:41:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,808,2773,176,52,2021,12,26,15,41,15,False,False,Tech,informative,1,0
@@ -3741,7 +3741,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 791298637,2022-02-17 12:52:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,374,3026,84,25,2022,2,17,12,52,24,False,False,Music,consistent,1,0
 319414435,2022-02-17 13:24:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,423,2832,82,24,2022,2,17,13,24,19,False,False,Tech,informative,0,1
 796846463,2022-02-17 19:50:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,431,2131,141,42,2022,2,17,19,50,6,False,True,Tech,erratic,0,0
-623825878,2022-02-18 20:03:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,38,335,21,6,2022,2,18,20,3,4,False,False,Tech,erratic,1,0
+623825878,2022-02-18 20:03:00,Exciting news!,elonmusk,Elon Musk,150000000,38,335,21,6,2022,2,18,20,3,4,False,False,Tech,erratic,1,0
 153794536,2022-02-18 20:15:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,334,1323,57,17,2022,2,18,20,15,19,False,False,Music,consistent,0,1
 415094094,2022-02-19 02:51:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,408,2116,144,43,2022,2,19,2,51,15,False,False,Tech,erratic,0,0
 474698972,2022-02-19 22:33:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,544,1949,65,19,2022,2,19,22,33,21,False,False,Politics,thoughtful,0,0
@@ -3773,7 +3773,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 74260095,2022-03-01 22:42:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,398,2208,82,24,2022,3,1,22,42,25,False,False,Politics,thoughtful,0,1
 985759112,2022-03-02 06:16:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,461,2704,197,59,2022,3,2,6,16,21,False,False,Music,consistent,0,0
 837504835,2022-03-03 11:50:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,584,1949,92,27,2022,3,3,11,50,17,False,False,Tech,informative,0,1
-711594688,2022-03-03 15:08:00,Great day! 🎉,elonmusk,Elon Musk,150000000,18,156,10,3,2022,3,3,15,8,2,False,False,Tech,erratic,0,0
+711594688,2022-03-03 15:08:00,Great day!,elonmusk,Elon Musk,150000000,18,156,10,3,2022,3,3,15,8,2,False,False,Tech,erratic,0,0
 71340337,2022-03-03 19:42:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,224,1565,55,16,2022,3,3,19,42,15,False,True,Science,professional,0,0
 675879748,2022-03-03 20:13:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1331,6331,135,40,2022,3,3,20,13,28,False,False,Politics,thoughtful,2,0
 319579240,2022-03-04 14:04:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,691,2613,76,22,2022,3,4,14,4,19,False,False,Tech,informative,0,0
@@ -3814,7 +3814,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 332875581,2022-03-17 12:15:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,233,2232,81,24,2022,3,17,12,15,16,False,False,Science,professional,0,0
 977851583,2022-03-17 22:07:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,383,1660,105,31,2022,3,17,22,7,9,False,True,Tech,erratic,1,1
 19629560,2022-03-18 00:52:00,Proud of what we're building. Stay tuned for updates.,NASA,NASA,75000000,676,2474,89,26,2022,3,18,0,52,14,False,True,Science,professional,0,1
-126090200,2022-03-18 03:50:00,Great day! 🎉,elonmusk,Elon Musk,150000000,48,328,11,3,2022,3,18,3,50,2,False,False,Tech,erratic,1,0
+126090200,2022-03-18 03:50:00,Great day!,elonmusk,Elon Musk,150000000,48,328,11,3,2022,3,18,3,50,2,False,False,Tech,erratic,1,0
 938289398,2022-03-18 10:29:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1045,7277,513,153,2022,3,18,10,29,21,False,False,Music,consistent,0,0
 228213094,2022-03-18 17:17:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,523,2861,178,53,2022,3,18,17,17,19,False,True,Science,professional,0,0
 422385136,2022-03-18 23:51:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,3466,11929,458,137,2022,3,18,23,51,27,False,False,Politics,thoughtful,0,0
@@ -3883,7 +3883,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 335163291,2022-04-13 05:32:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,512,1749,104,31,2022,4,13,5,32,19,False,True,Music,consistent,0,0
 681202170,2022-04-13 14:28:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,112,522,18,5,2022,4,13,14,28,9,False,False,Tech,erratic,0,0
 177113923,2022-04-13 16:39:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,544,2144,64,19,2022,4,13,16,39,29,False,False,Politics,thoughtful,0,0
-227888570,2022-04-14 03:27:00,Working hard! 💪,elonmusk,Elon Musk,150000000,150,510,22,6,2022,4,14,3,27,4,False,False,Tech,erratic,0,0
+227888570,2022-04-14 03:27:00,Working hard!,elonmusk,Elon Musk,150000000,150,510,22,6,2022,4,14,3,27,4,False,False,Tech,erratic,0,0
 910358784,2022-04-14 06:07:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,908,5228,326,97,2022,4,14,6,7,22,False,False,Politics,thoughtful,0,0
 642165147,2022-04-14 07:28:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,460,3297,136,40,2022,4,14,7,28,23,False,False,Politics,thoughtful,2,0
 768378643,2022-04-14 10:59:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,500,1918,116,34,2022,4,14,10,59,12,False,True,Tech,erratic,0,0
@@ -3917,7 +3917,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 412833952,2022-04-24 07:21:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,494,3003,150,45,2022,4,24,7,21,23,False,False,Music,consistent,0,0
 771733930,2022-04-24 18:59:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,948,5528,244,73,2022,4,24,18,59,22,False,True,Music,consistent,0,0
 236042622,2022-04-25 07:43:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,805,6433,256,76,2022,4,25,7,43,18,True,False,Science,professional,0,0
-55356483,2022-04-25 07:53:00,Working hard! 💪,elonmusk,Elon Musk,150000000,85,439,30,9,2022,4,25,7,53,4,False,False,Tech,erratic,0,0
+55356483,2022-04-25 07:53:00,Working hard!,elonmusk,Elon Musk,150000000,85,439,30,9,2022,4,25,7,53,4,False,False,Tech,erratic,0,0
 499848743,2022-04-25 13:13:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,358,3338,203,60,2022,4,25,13,13,22,False,False,Tech,informative,0,0
 577760455,2022-04-26 11:18:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1227,8700,641,192,2022,4,26,11,18,38,False,False,Politics,thoughtful,0,0
 21569536,2022-04-27 09:47:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,807,4021,239,71,2022,4,27,9,47,21,False,False,Music,consistent,1,1
@@ -4040,7 +4040,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 222726548,2022-06-19 05:56:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,849,3672,142,42,2022,6,19,5,56,20,False,False,Science,professional,0,0
 868865515,2022-06-19 09:16:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,1098,4004,234,70,2022,6,19,9,16,18,False,True,Science,professional,1,0
 20380326,2022-06-19 11:39:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,506,2038,148,44,2022,6,19,11,39,20,False,False,Science,professional,1,0
-618019975,2022-06-19 20:44:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,245,888,26,7,2022,6,19,20,44,4,False,False,Tech,erratic,2,0
+618019975,2022-06-19 20:44:00,Exciting news!,elonmusk,Elon Musk,150000000,245,888,26,7,2022,6,19,20,44,4,False,False,Tech,erratic,2,0
 432728975,2022-06-20 13:39:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,305,2562,162,48,2022,6,20,13,39,18,False,False,Music,consistent,2,1
 22742700,2022-06-20 13:39:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1125,5986,387,116,2022,6,20,13,39,25,False,False,Politics,thoughtful,1,1
 562051036,2022-06-20 14:00:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,272,1257,38,11,2022,6,20,14,0,9,False,False,Tech,erratic,0,1
@@ -4052,7 +4052,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 579432161,2022-06-22 04:42:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,195,797,28,8,2022,6,22,4,42,20,False,False,Politics,thoughtful,0,0
 511004397,2022-06-22 16:12:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,479,2939,77,23,2022,6,22,16,12,19,False,False,Science,professional,0,0
 973689922,2022-06-22 20:41:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,506,1864,91,27,2022,6,22,20,41,18,True,True,Tech,informative,2,0
-802867178,2022-06-23 00:09:00,Great day! 🎉,elonmusk,Elon Musk,150000000,156,701,38,11,2022,6,23,0,9,3,False,False,Tech,erratic,1,0
+802867178,2022-06-23 00:09:00,Great day!,elonmusk,Elon Musk,150000000,156,701,38,11,2022,6,23,0,9,3,False,False,Tech,erratic,1,0
 733178340,2022-06-23 16:23:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,893,4338,146,43,2022,6,23,16,23,19,False,False,Music,consistent,1,0
 6696266,2022-06-24 05:05:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,732,2705,169,50,2022,6,24,5,5,25,False,False,Science,professional,0,0
 800753684,2022-06-24 18:28:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,249,1015,58,17,2022,6,24,18,28,11,False,False,Tech,erratic,1,0
@@ -4060,9 +4060,9 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 879988192,2022-06-25 00:47:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,1166,6846,353,105,2022,6,25,0,47,44,False,False,Tech,erratic,0,0
 960728116,2022-06-25 14:12:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1062,4527,105,31,2022,6,25,14,12,20,False,False,Music,consistent,0,0
 273847882,2022-06-26 03:00:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,512,3545,246,73,2022,6,26,3,0,21,False,False,Politics,thoughtful,1,2
-249462041,2022-06-26 08:02:00,Working hard! 💪,elonmusk,Elon Musk,150000000,140,1176,39,11,2022,6,26,8,2,4,False,False,Tech,erratic,0,0
+249462041,2022-06-26 08:02:00,Working hard!,elonmusk,Elon Musk,150000000,140,1176,39,11,2022,6,26,8,2,4,False,False,Tech,erratic,0,0
 952895041,2022-06-27 02:16:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,449,1682,126,37,2022,6,27,2,16,20,False,True,Politics,thoughtful,0,0
-514385347,2022-06-27 08:23:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,57,317,19,5,2022,6,27,8,23,4,False,False,Tech,erratic,0,1
+514385347,2022-06-27 08:23:00,Exciting news!,elonmusk,Elon Musk,150000000,57,317,19,5,2022,6,27,8,23,4,False,False,Tech,erratic,0,1
 975159469,2022-07-02 13:01:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,437,3107,161,48,2022,7,2,13,1,23,False,False,Music,consistent,0,0
 439595866,2022-07-03 05:02:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,219,750,50,15,2022,7,3,5,2,16,False,False,Tech,informative,0,0
 543126463,2022-07-03 21:51:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,490,4552,232,69,2022,7,3,21,51,17,False,False,Science,professional,3,1
@@ -4134,7 +4134,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 733685013,2022-07-25 18:01:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,226,1432,84,25,2022,7,25,18,1,15,False,False,Science,professional,1,1
 834693197,2022-07-26 03:39:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,586,2104,109,32,2022,7,26,3,39,15,False,False,Science,professional,1,1
 32416786,2022-07-26 04:10:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,527,2568,157,47,2022,7,26,4,10,21,False,False,Music,consistent,1,0
-514390283,2022-07-26 23:28:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,42,369,17,5,2022,7,26,23,28,4,False,False,Tech,erratic,0,0
+514390283,2022-07-26 23:28:00,Thank you all!,elonmusk,Elon Musk,150000000,42,369,17,5,2022,7,26,23,28,4,False,False,Tech,erratic,0,0
 323562818,2022-07-27 00:03:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,336,3155,138,41,2022,7,27,0,3,20,False,False,Music,consistent,1,0
 298387828,2022-07-27 00:31:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,527,2865,71,21,2022,7,27,0,31,24,False,False,Tech,informative,0,0
 21573138,2022-07-27 10:48:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,815,2764,57,17,2022,7,27,10,48,29,False,False,Politics,thoughtful,0,1
@@ -4259,7 +4259,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 536621369,2022-09-15 04:22:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,420,2668,201,60,2022,9,15,4,22,15,False,False,Science,professional,0,1
 670521050,2022-09-15 13:46:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,591,2701,175,52,2022,9,15,13,46,28,False,True,Tech,informative,0,0
 796104146,2022-09-15 17:35:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,537,2956,107,32,2022,9,15,17,35,20,False,False,Music,consistent,1,0
-682971491,2022-09-16 07:29:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,126,781,26,7,2022,9,16,7,29,4,False,False,Tech,erratic,0,0
+682971491,2022-09-16 07:29:00,Thank you all!,elonmusk,Elon Musk,150000000,126,781,26,7,2022,9,16,7,29,4,False,False,Tech,erratic,0,0
 808429622,2022-09-16 10:10:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,527,2518,64,19,2022,9,16,10,10,18,False,False,Science,professional,1,2
 854849406,2022-09-16 17:46:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,264,2402,150,45,2022,9,16,17,46,12,False,True,Science,professional,2,0
 487330725,2022-09-16 23:01:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,241,1052,40,12,2022,9,16,23,1,16,False,False,Music,consistent,0,0
@@ -4326,7 +4326,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 827492718,2022-10-12 05:22:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,496,2178,100,30,2022,10,12,5,22,23,False,False,Music,consistent,0,0
 928931225,2022-10-12 10:51:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,348,1425,86,25,2022,10,12,10,51,24,False,False,Music,consistent,1,0
 409866634,2022-10-12 21:06:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,429,1644,75,22,2022,10,12,21,6,15,False,False,Politics,thoughtful,1,0
-913731618,2022-10-12 21:26:00,Working hard! 💪,elonmusk,Elon Musk,150000000,485,1730,123,36,2022,10,12,21,26,3,False,False,Tech,erratic,1,0
+913731618,2022-10-12 21:26:00,Working hard!,elonmusk,Elon Musk,150000000,485,1730,123,36,2022,10,12,21,26,3,False,False,Tech,erratic,1,0
 495405336,2022-10-12 21:51:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,500,2257,177,53,2022,10,12,21,51,9,False,False,Tech,erratic,1,1
 31592378,2022-10-12 21:52:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,444,1609,85,25,2022,10,12,21,52,18,False,False,Music,consistent,0,0
 728684395,2022-10-13 23:01:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,427,3077,76,22,2022,10,13,23,1,14,False,False,Science,professional,1,0
@@ -4360,7 +4360,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 752541102,2022-11-03 05:38:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,532,2960,63,18,2022,11,3,5,38,22,False,False,Politics,thoughtful,0,0
 501467244,2022-11-03 12:02:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,800,3242,211,63,2022,11,3,12,2,20,False,False,Music,consistent,0,0
 515473206,2022-11-04 02:53:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,361,1542,49,14,2022,11,4,2,53,12,False,False,Tech,erratic,0,1
-824774870,2022-11-04 03:41:00,Great day! 🎉,elonmusk,Elon Musk,150000000,127,702,54,16,2022,11,4,3,41,4,False,False,Tech,erratic,3,0
+824774870,2022-11-04 03:41:00,Great day!,elonmusk,Elon Musk,150000000,127,702,54,16,2022,11,4,3,41,4,False,False,Tech,erratic,3,0
 43008299,2022-11-04 07:34:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,982,3937,208,62,2022,11,4,7,34,25,False,False,Music,consistent,0,0
 717701418,2022-11-04 08:45:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,132,708,36,10,2022,11,4,8,45,9,False,False,Tech,erratic,1,0
 754974031,2022-11-04 10:30:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,436,2228,63,18,2022,11,4,10,30,23,False,True,Music,consistent,0,0
@@ -4394,7 +4394,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 340649270,2022-11-13 09:54:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,241,1099,29,8,2022,11,13,9,54,13,False,True,Tech,erratic,1,0
 546067626,2022-11-13 20:26:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,470,2034,75,22,2022,11,13,20,26,23,False,False,Politics,thoughtful,0,0
 961128052,2022-11-14 00:04:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,895,3119,69,20,2022,11,14,0,4,20,False,False,Tech,informative,1,0
-315943056,2022-11-14 04:39:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,114,484,10,3,2022,11,14,4,39,3,False,False,Tech,erratic,1,0
+315943056,2022-11-14 04:39:00,Thank you all!,elonmusk,Elon Musk,150000000,114,484,10,3,2022,11,14,4,39,3,False,False,Tech,erratic,1,0
 244812964,2022-11-15 19:27:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,158,1422,84,25,2022,11,15,19,27,20,False,False,Tech,informative,0,0
 30387732,2022-11-15 23:37:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,625,4501,191,57,2022,11,15,23,37,22,False,True,Politics,thoughtful,0,0
 495963808,2022-11-15 23:38:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,639,2226,155,46,2022,11,15,23,38,25,False,False,Music,consistent,0,0
@@ -4441,7 +4441,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 896900061,2022-11-27 09:49:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,550,2500,195,58,2022,11,27,9,49,18,False,True,Music,consistent,1,0
 437692279,2022-11-27 23:58:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,868,3445,75,22,2022,11,27,23,58,20,False,False,Tech,informative,0,0
 623283077,2022-12-01 08:20:00,Proud of what we're building. Stay tuned for updates.,NASA,NASA,75000000,232,1496,117,35,2022,12,1,8,20,12,False,False,Science,professional,0,0
-448228023,2022-12-01 12:52:00,Great day! 🎉,elonmusk,Elon Musk,150000000,104,784,43,12,2022,12,1,12,52,3,False,False,Tech,erratic,0,0
+448228023,2022-12-01 12:52:00,Great day!,elonmusk,Elon Musk,150000000,104,784,43,12,2022,12,1,12,52,3,False,False,Tech,erratic,0,0
 854097423,2022-12-02 02:38:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1074,3685,234,70,2022,12,2,2,38,23,False,False,Music,consistent,1,0
 502331362,2022-12-02 17:53:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,1696,7794,180,54,2022,12,2,17,53,16,False,False,Tech,erratic,1,1
 821061381,2022-12-02 19:03:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,472,2482,107,32,2022,12,2,19,3,22,False,False,Music,consistent,0,0
@@ -4466,7 +4466,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 312284080,2022-12-07 21:22:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,563,3554,222,66,2022,12,7,21,22,19,False,False,Politics,thoughtful,0,0
 747856576,2022-12-08 05:17:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1090,8104,512,153,2022,12,8,5,17,29,True,False,Politics,thoughtful,0,0
 169432265,2022-12-08 07:11:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,692,3584,167,50,2022,12,8,7,11,20,True,False,Music,consistent,0,0
-666841275,2022-12-08 10:50:00,Great day! 🎉,elonmusk,Elon Musk,150000000,80,793,16,4,2022,12,8,10,50,4,False,False,Tech,erratic,1,0
+666841275,2022-12-08 10:50:00,Great day!,elonmusk,Elon Musk,150000000,80,793,16,4,2022,12,8,10,50,4,False,False,Tech,erratic,1,0
 692593114,2022-12-08 18:26:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1418,7425,394,118,2022,12,8,18,26,29,False,False,Politics,thoughtful,0,1
 153631497,2022-12-09 04:33:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,420,2131,108,32,2022,12,9,4,33,16,False,True,Science,professional,1,0
 850564575,2022-12-09 12:03:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,409,2930,138,41,2022,12,9,12,3,16,False,True,Tech,erratic,2,0
@@ -4508,7 +4508,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 651055108,2022-12-19 07:36:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,692,3555,93,27,2022,12,19,7,36,24,False,False,Tech,informative,1,1
 485380432,2022-12-19 11:34:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,847,5772,359,107,2022,12,19,11,34,23,False,True,Science,professional,0,0
 858866896,2022-12-19 12:53:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1020,5226,230,69,2022,12,19,12,53,21,False,False,Music,consistent,0,0
-345089129,2022-12-20 00:40:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,92,534,27,8,2022,12,20,0,40,4,False,False,Tech,erratic,1,0
+345089129,2022-12-20 00:40:00,Exciting news!,elonmusk,Elon Musk,150000000,92,534,27,8,2022,12,20,0,40,4,False,False,Tech,erratic,1,0
 465623494,2022-12-20 01:55:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,931,6173,159,47,2022,12,20,1,55,28,False,False,Politics,thoughtful,0,0
 446236443,2022-12-20 05:25:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,2296,7678,439,131,2022,12,20,5,25,24,False,False,Politics,thoughtful,1,0
 617482519,2022-12-20 21:40:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,765,2682,201,60,2022,12,20,21,40,20,False,True,Science,professional,0,1
@@ -4516,8 +4516,8 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 385648635,2022-12-22 14:16:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,2244,13887,789,236,2022,12,22,14,16,23,False,False,Politics,thoughtful,0,0
 19635210,2022-12-23 02:50:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,285,2195,173,51,2022,12,23,2,50,15,False,False,Science,professional,1,1
 706399836,2022-12-23 04:53:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1104,4865,153,45,2022,12,23,4,53,25,False,False,Politics,thoughtful,0,0
-46750574,2022-12-23 11:15:00,Working hard! 💪,elonmusk,Elon Musk,150000000,113,847,38,11,2022,12,23,11,15,3,False,False,Tech,erratic,0,0
-386293219,2022-12-23 13:48:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,146,544,13,3,2022,12,23,13,48,2,False,True,Tech,erratic,0,0
+46750574,2022-12-23 11:15:00,Working hard!,elonmusk,Elon Musk,150000000,113,847,38,11,2022,12,23,11,15,3,False,False,Tech,erratic,0,0
+386293219,2022-12-23 13:48:00,Exciting news!,elonmusk,Elon Musk,150000000,146,544,13,3,2022,12,23,13,48,2,False,True,Tech,erratic,0,0
 843922000,2022-12-23 19:16:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,918,5313,421,126,2022,12,23,19,16,21,False,False,Tech,informative,2,0
 35923325,2022-12-23 21:22:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,777,2909,199,59,2022,12,23,21,22,27,False,False,Politics,thoughtful,0,0
 505387610,2022-12-24 23:23:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,567,2983,219,65,2022,12,24,23,23,22,False,True,Tech,informative,1,1
@@ -4614,7 +4614,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 243220639,2023-01-24 16:36:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,528,4596,197,59,2023,1,24,16,36,23,False,False,Politics,thoughtful,0,0
 796881902,2023-01-25 01:30:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,273,1215,88,26,2023,1,25,1,30,21,False,True,Tech,informative,0,0
 997363359,2023-01-25 22:27:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,422,2265,121,36,2023,1,25,22,27,21,False,False,Tech,informative,0,0
-309722837,2023-01-25 22:49:00,Great day! 🎉,elonmusk,Elon Musk,150000000,347,1323,53,15,2023,1,25,22,49,4,False,True,Tech,erratic,0,0
+309722837,2023-01-25 22:49:00,Great day!,elonmusk,Elon Musk,150000000,347,1323,53,15,2023,1,25,22,49,4,False,True,Tech,erratic,0,0
 460485298,2023-01-26 01:43:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,514,2803,151,45,2023,1,26,1,43,27,False,False,Science,professional,1,0
 662752352,2023-01-26 08:12:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,750,3132,71,21,2023,1,26,8,12,25,False,False,Science,professional,0,1
 119298820,2023-01-26 12:21:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,84,610,31,9,2023,1,26,12,21,8,False,True,Science,professional,2,0
@@ -4644,7 +4644,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 191002831,2023-02-08 04:45:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,834,2861,118,35,2023,2,8,4,45,20,False,False,Music,consistent,1,0
 682172782,2023-02-09 17:49:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,360,3211,156,46,2023,2,9,17,49,28,False,True,Politics,thoughtful,1,0
 101451664,2023-02-10 01:40:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,672,4039,188,56,2023,2,10,1,40,16,False,False,Tech,erratic,0,1
-815255603,2023-02-10 05:39:00,Great day! 🎉,elonmusk,Elon Musk,150000000,32,219,12,3,2023,2,10,5,39,2,False,False,Tech,erratic,0,1
+815255603,2023-02-10 05:39:00,Great day!,elonmusk,Elon Musk,150000000,32,219,12,3,2023,2,10,5,39,2,False,False,Tech,erratic,0,1
 192181498,2023-02-10 05:47:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1897,9847,198,59,2023,2,10,5,47,29,True,True,Politics,thoughtful,2,0
 158245575,2023-02-10 10:52:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,804,3387,191,57,2023,2,10,10,52,24,False,False,Science,professional,0,0
 295582198,2023-02-10 17:16:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,262,901,30,9,2023,2,10,17,16,18,False,False,Science,professional,0,0
@@ -4656,7 +4656,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 128550858,2023-02-13 13:40:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,467,2907,129,38,2023,2,13,13,40,23,False,False,Music,consistent,0,0
 298111372,2023-02-13 16:35:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,728,2487,109,32,2023,2,13,16,35,24,False,False,Tech,informative,1,0
 46963414,2023-02-13 17:22:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,441,2733,158,47,2023,2,13,17,22,17,True,True,Science,professional,0,0
-332704325,2023-02-13 22:39:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,116,812,21,6,2023,2,13,22,39,4,False,True,Tech,erratic,0,0
+332704325,2023-02-13 22:39:00,Exciting news!,elonmusk,Elon Musk,150000000,116,812,21,6,2023,2,13,22,39,4,False,True,Tech,erratic,0,0
 73310012,2023-02-14 04:10:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,526,2149,107,32,2023,2,14,4,10,20,True,False,Tech,informative,1,2
 588545706,2023-02-14 13:26:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,814,4123,295,88,2023,2,14,13,26,21,False,False,Tech,informative,0,1
 649356618,2023-02-14 15:19:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,662,2246,51,15,2023,2,14,15,19,7,False,False,Tech,erratic,0,0
@@ -4672,7 +4672,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 116643132,2023-02-17 05:36:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,426,2109,148,44,2023,2,17,5,36,17,False,False,Tech,erratic,0,0
 535666414,2023-02-18 13:31:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,454,3644,209,62,2023,2,18,13,31,18,False,False,Science,professional,1,0
 223333169,2023-02-18 15:58:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,510,3052,167,50,2023,2,18,15,58,17,False,False,Tech,informative,0,0
-645333845,2023-02-18 20:39:00,Working hard! 💪,elonmusk,Elon Musk,150000000,187,688,31,9,2023,2,18,20,39,4,False,True,Tech,erratic,1,0
+645333845,2023-02-18 20:39:00,Working hard!,elonmusk,Elon Musk,150000000,187,688,31,9,2023,2,18,20,39,4,False,True,Tech,erratic,1,0
 684948329,2023-02-19 05:33:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,208,1471,101,30,2023,2,19,5,33,21,False,True,Music,consistent,0,0
 649246720,2023-02-19 05:47:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,2591,8654,634,190,2023,2,19,5,47,27,False,False,Music,consistent,1,0
 671847990,2023-02-20 04:42:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,555,2156,91,27,2023,2,20,4,42,22,False,True,Music,consistent,1,0
@@ -4948,7 +4948,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 694024133,2023-06-04 01:14:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1477,5685,354,106,2023,6,4,1,14,18,True,True,Music,consistent,1,0
 428856061,2023-06-04 06:29:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,694,2494,137,41,2023,6,4,6,29,21,True,False,Music,consistent,0,0
 52777871,2023-06-04 07:34:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1199,4961,361,108,2023,6,4,7,34,22,False,False,Tech,informative,1,1
-896265401,2023-06-04 10:29:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,83,618,35,10,2023,6,4,10,29,4,False,False,Tech,erratic,1,0
+896265401,2023-06-04 10:29:00,Exciting news!,elonmusk,Elon Musk,150000000,83,618,35,10,2023,6,4,10,29,4,False,False,Tech,erratic,1,0
 205291553,2023-06-05 05:49:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,1508,5985,151,45,2023,6,5,5,49,17,False,True,Science,professional,0,1
 395359964,2023-06-05 08:10:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,518,2484,141,42,2023,6,5,8,10,21,False,False,Music,consistent,0,1
 148887931,2023-06-05 09:08:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,359,1731,65,19,2023,6,5,9,8,13,False,False,Science,professional,1,0
@@ -5042,7 +5042,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 771868252,2023-07-11 16:42:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,614,5275,307,92,2023,7,11,16,42,23,False,False,Politics,thoughtful,2,0
 728003926,2023-07-11 19:09:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,611,3708,175,52,2023,7,11,19,9,26,True,False,Politics,thoughtful,0,0
 582188646,2023-07-11 21:03:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,799,3646,222,66,2023,7,11,21,3,13,False,False,Tech,erratic,0,0
-245248578,2023-07-13 02:41:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,292,1283,51,15,2023,7,13,2,41,4,False,False,Tech,erratic,0,1
+245248578,2023-07-13 02:41:00,Exciting news!,elonmusk,Elon Musk,150000000,292,1283,51,15,2023,7,13,2,41,4,False,False,Tech,erratic,0,1
 119697714,2023-07-13 14:13:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,441,2661,135,40,2023,7,13,14,13,16,False,False,Science,professional,0,0
 90326387,2023-07-14 04:06:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,863,3199,207,62,2023,7,14,4,6,20,False,True,Tech,erratic,0,1
 686476009,2023-07-14 06:23:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,493,2400,59,17,2023,7,14,6,23,23,False,False,Tech,informative,2,0
@@ -5101,7 +5101,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 969313031,2023-08-08 01:03:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,3590,13960,313,93,2023,8,8,1,3,21,False,False,Tech,informative,0,0
 846852773,2023-08-08 08:59:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,258,1962,109,32,2023,8,8,8,59,24,False,False,Tech,informative,1,0
 732780832,2023-08-08 11:31:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,594,2527,121,36,2023,8,8,11,31,22,False,False,Tech,informative,0,0
-601883864,2023-08-08 17:38:00,Working hard! 💪,elonmusk,Elon Musk,150000000,67,230,11,3,2023,8,8,17,38,1,False,False,Tech,erratic,0,1
+601883864,2023-08-08 17:38:00,Working hard!,elonmusk,Elon Musk,150000000,67,230,11,3,2023,8,8,17,38,1,False,False,Tech,erratic,0,1
 495763656,2023-08-09 05:43:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,328,1437,29,8,2023,8,9,5,43,16,True,True,Tech,informative,0,0
 510690233,2023-08-09 14:43:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,349,2142,132,39,2023,8,9,14,43,18,False,False,Tech,informative,0,0
 293452621,2023-08-09 16:07:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,414,1665,79,23,2023,8,9,16,7,17,True,False,Science,professional,0,0
@@ -5114,9 +5114,9 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 990431425,2023-08-10 17:13:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,952,3520,240,72,2023,8,10,17,13,17,False,False,Politics,thoughtful,3,0
 952216344,2023-08-11 01:04:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,561,2289,46,13,2023,8,11,1,4,18,False,False,Tech,informative,1,0
 204082246,2023-08-12 08:12:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,2505,8746,658,197,2023,8,12,8,12,24,True,False,Music,consistent,0,0
-881515954,2023-08-13 08:58:00,Working hard! 💪,elonmusk,Elon Musk,150000000,156,624,41,12,2023,8,13,8,58,4,False,False,Tech,erratic,0,0
+881515954,2023-08-13 08:58:00,Working hard!,elonmusk,Elon Musk,150000000,156,624,41,12,2023,8,13,8,58,4,False,False,Tech,erratic,0,0
 885656248,2023-08-13 16:03:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1792,10579,567,170,2023,8,13,16,3,28,False,False,Politics,thoughtful,0,1
-420788701,2023-08-14 00:09:00,Working hard! 💪,elonmusk,Elon Musk,150000000,102,834,63,18,2023,8,14,0,9,4,False,False,Tech,erratic,1,1
+420788701,2023-08-14 00:09:00,Working hard!,elonmusk,Elon Musk,150000000,102,834,63,18,2023,8,14,0,9,4,False,False,Tech,erratic,1,1
 282951186,2023-08-14 03:45:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,319,1756,74,22,2023,8,14,3,45,28,False,False,Tech,erratic,0,0
 954137423,2023-08-14 15:25:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,825,3691,107,32,2023,8,14,15,25,24,False,False,Politics,thoughtful,0,0
 582554474,2023-08-15 22:08:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,881,2997,155,46,2023,8,15,22,8,21,False,False,Tech,informative,0,0
@@ -5136,7 +5136,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 29940046,2023-08-20 15:31:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,630,3207,124,37,2023,8,20,15,31,23,False,False,Politics,thoughtful,0,0
 861454279,2023-08-21 14:14:00,Excited to share our latest project in Tech. More soon!,BillGates,Bill Gates,62000000,195,1679,71,21,2023,8,21,14,14,13,False,False,Tech,informative,0,0
 457049361,2023-08-21 20:48:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,493,4779,249,74,2023,8,21,20,48,18,True,False,Tech,informative,0,0
-477775923,2023-08-23 11:04:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,233,865,56,16,2023,8,23,11,4,3,False,True,Tech,erratic,0,0
+477775923,2023-08-23 11:04:00,Exciting news!,elonmusk,Elon Musk,150000000,233,865,56,16,2023,8,23,11,4,3,False,True,Tech,erratic,0,0
 890592039,2023-08-24 04:06:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,807,2713,132,39,2023,8,24,4,6,23,False,False,Music,consistent,1,0
 900883404,2023-08-24 23:26:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,395,2308,120,36,2023,8,24,23,26,18,False,False,Tech,informative,2,0
 219277591,2023-08-26 00:11:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,702,3440,108,32,2023,8,26,0,11,22,False,False,Politics,thoughtful,1,0
@@ -5158,7 +5158,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 749329454,2023-09-03 15:48:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,506,3433,213,63,2023,9,3,15,48,10,False,False,Tech,erratic,1,0
 172000490,2023-09-03 18:35:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,456,2781,105,31,2023,9,3,18,35,14,False,False,Science,professional,0,0
 132377749,2023-09-03 23:21:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,67,627,24,7,2023,9,3,23,21,7,False,False,Tech,erratic,0,1
-871793394,2023-09-04 04:54:00,Great day! 🎉,elonmusk,Elon Musk,150000000,113,455,19,5,2023,9,4,4,54,3,False,True,Tech,erratic,0,0
+871793394,2023-09-04 04:54:00,Great day!,elonmusk,Elon Musk,150000000,113,455,19,5,2023,9,4,4,54,3,False,True,Tech,erratic,0,0
 215881563,2023-09-04 10:22:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,340,2650,99,29,2023,9,4,10,22,26,False,False,Music,consistent,0,0
 385248986,2023-09-05 01:08:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,698,2639,126,37,2023,9,5,1,8,33,False,False,Politics,thoughtful,0,0
 428761882,2023-09-05 05:41:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,533,2157,155,46,2023,9,5,5,41,17,False,False,Science,professional,0,0
@@ -5180,7 +5180,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 355050281,2023-09-08 00:02:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,762,2814,90,27,2023,9,8,0,2,18,False,False,Tech,informative,1,0
 331508627,2023-09-08 06:59:00,Proud of what we're building. Stay tuned for updates.,BillGates,Bill Gates,62000000,324,1419,76,22,2023,9,8,6,59,14,False,True,Tech,informative,0,0
 131265704,2023-09-09 11:08:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,509,2220,173,51,2023,9,9,11,8,22,False,False,Science,professional,0,0
-310332374,2023-09-09 14:04:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,92,356,7,2,2023,9,9,14,4,4,False,False,Tech,erratic,0,1
+310332374,2023-09-09 14:04:00,Thank you all!,elonmusk,Elon Musk,150000000,92,356,7,2,2023,9,9,14,4,4,False,False,Tech,erratic,0,1
 917517628,2023-09-10 02:27:00,Great conversation today about innovation and the future.,BillGates,Bill Gates,62000000,332,2430,50,15,2023,9,10,2,27,12,False,False,Tech,informative,0,0
 334380835,2023-09-10 08:39:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,290,1081,53,15,2023,9,10,8,39,7,False,True,Tech,erratic,0,1
 713549189,2023-09-10 12:47:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,308,1858,52,15,2023,9,10,12,47,23,False,False,Music,consistent,2,0
@@ -5306,7 +5306,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 84122165,2023-10-25 15:23:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,240,2366,119,35,2023,10,25,15,23,25,False,False,Politics,thoughtful,0,0
 101612029,2023-10-25 15:36:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,463,2360,75,22,2023,10,25,15,36,20,False,False,Music,consistent,1,0
 571720518,2023-10-25 16:55:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,724,3597,82,24,2023,10,25,16,55,32,False,True,Politics,thoughtful,0,0
-329974673,2023-10-26 01:39:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,81,273,21,6,2023,10,26,1,39,3,False,False,Tech,erratic,0,1
+329974673,2023-10-26 01:39:00,Exciting news!,elonmusk,Elon Musk,150000000,81,273,21,6,2023,10,26,1,39,3,False,False,Tech,erratic,0,1
 37063141,2023-10-26 17:48:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,509,1737,90,27,2023,10,26,17,48,20,False,False,Music,consistent,0,0
 464085336,2023-10-27 06:24:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,405,3232,176,52,2023,10,27,6,24,19,False,False,Tech,informative,0,0
 560272892,2023-10-27 10:27:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,991,3519,98,29,2023,10,27,10,27,26,False,False,Politics,thoughtful,0,0
@@ -5318,7 +5318,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 335642351,2023-11-03 17:16:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,465,3448,173,51,2023,11,3,17,16,17,False,False,Science,professional,0,1
 484993539,2023-11-04 05:39:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1025,3861,99,29,2023,11,4,5,39,22,False,False,Music,consistent,0,1
 600669306,2023-11-04 07:56:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,355,1996,147,44,2023,11,4,7,56,22,False,False,Music,consistent,0,0
-801329946,2023-11-05 09:28:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,113,383,13,3,2023,11,5,9,28,3,False,False,Tech,erratic,0,0
+801329946,2023-11-05 09:28:00,Thank you all!,elonmusk,Elon Musk,150000000,113,383,13,3,2023,11,5,9,28,3,False,False,Tech,erratic,0,0
 31368564,2023-11-05 12:13:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1077,7650,396,118,2023,11,5,12,13,23,False,False,Music,consistent,0,2
 885047159,2023-11-06 05:38:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,281,2765,63,18,2023,11,6,5,38,22,False,False,Music,consistent,1,0
 709060531,2023-11-06 12:40:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,617,2847,103,30,2023,11,6,12,40,23,False,False,Tech,informative,1,1
@@ -5607,7 +5607,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 462256854,2024-02-25 17:22:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,270,1834,88,26,2024,2,25,17,22,22,False,False,Music,consistent,0,0
 394361549,2024-02-26 03:29:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,150,1273,32,9,2024,2,26,3,29,11,False,False,Tech,erratic,0,0
 84601071,2024-02-26 06:32:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,214,1944,87,26,2024,2,26,6,32,11,False,False,Tech,erratic,1,0
-640796,2024-02-26 15:11:00,Working hard! 💪,elonmusk,Elon Musk,150000000,32,178,4,1,2024,2,26,15,11,3,False,False,Tech,erratic,1,0
+640796,2024-02-26 15:11:00,Working hard!,elonmusk,Elon Musk,150000000,32,178,4,1,2024,2,26,15,11,3,False,False,Tech,erratic,1,0
 934546227,2024-02-27 00:17:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,1157,5847,340,102,2024,2,27,0,17,14,False,False,Tech,erratic,0,1
 930723932,2024-02-27 15:54:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,270,1310,64,19,2024,2,27,15,54,21,False,True,Music,consistent,0,0
 324777666,2024-02-27 16:43:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,489,2964,116,34,2024,2,27,16,43,21,False,True,Tech,erratic,1,1
@@ -5657,7 +5657,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 386763628,2024-03-16 17:07:00,Proud of what we're building. Stay tuned for updates.,NASA,NASA,75000000,697,2826,108,32,2024,3,16,17,7,13,False,True,Science,professional,1,1
 621735724,2024-03-16 21:13:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,1712,6831,154,46,2024,3,16,21,13,20,False,False,Science,professional,0,0
 973564531,2024-03-17 13:47:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,441,2678,124,37,2024,3,17,13,47,21,False,False,Music,consistent,0,0
-110262871,2024-03-18 17:57:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,79,708,43,12,2024,3,18,17,57,3,False,True,Tech,erratic,0,0
+110262871,2024-03-18 17:57:00,Thank you all!,elonmusk,Elon Musk,150000000,79,708,43,12,2024,3,18,17,57,3,False,True,Tech,erratic,0,0
 577618368,2024-03-18 20:55:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,349,1523,55,16,2024,3,18,20,55,9,False,False,Tech,erratic,1,0
 839620783,2024-03-21 03:36:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,985,5373,211,63,2024,3,21,3,36,19,False,False,Science,professional,0,0
 379128624,2024-03-21 03:50:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,2012,12795,723,216,2024,3,21,3,50,25,False,False,Music,consistent,0,1
@@ -5704,7 +5704,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 36218316,2024-04-09 06:21:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,557,4881,109,32,2024,4,9,6,21,24,False,False,Politics,thoughtful,0,0
 106033771,2024-04-09 22:44:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,318,1232,29,8,2024,4,9,22,44,8,False,False,Tech,erratic,0,0
 194835206,2024-04-09 23:51:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,495,3893,85,25,2024,4,9,23,51,21,False,False,Music,consistent,2,1
-239754303,2024-04-10 07:45:00,Great day! 🎉,elonmusk,Elon Musk,150000000,739,3698,74,22,2024,4,10,7,45,4,False,False,Tech,erratic,0,0
+239754303,2024-04-10 07:45:00,Great day!,elonmusk,Elon Musk,150000000,739,3698,74,22,2024,4,10,7,45,4,False,False,Tech,erratic,0,0
 696567172,2024-04-10 15:52:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,829,3525,90,27,2024,4,10,15,52,25,False,False,Politics,thoughtful,1,0
 115145401,2024-04-10 16:35:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,984,4295,141,42,2024,4,10,16,35,26,False,True,Politics,thoughtful,0,0
 700323700,2024-04-10 23:42:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,532,3922,261,78,2024,4,10,23,42,21,False,False,Tech,informative,0,0
@@ -5732,7 +5732,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 74796340,2024-04-19 02:26:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,133,874,53,15,2024,4,19,2,26,7,False,False,Tech,erratic,0,0
 586526158,2024-04-19 13:09:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1236,4573,330,99,2024,4,19,13,9,23,False,False,Tech,informative,0,0
 804711693,2024-04-19 16:54:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,160,925,39,11,2024,4,19,16,54,5,False,False,Tech,erratic,0,0
-142451973,2024-04-20 02:44:00,Working hard! 💪,elonmusk,Elon Musk,150000000,122,454,32,9,2024,4,20,2,44,3,False,False,Tech,erratic,0,0
+142451973,2024-04-20 02:44:00,Working hard!,elonmusk,Elon Musk,150000000,122,454,32,9,2024,4,20,2,44,3,False,False,Tech,erratic,0,0
 89386681,2024-04-20 03:47:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,244,846,45,13,2024,4,20,3,47,14,False,False,Tech,erratic,1,0
 92365805,2024-04-20 19:19:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,2068,7337,503,150,2024,4,20,19,19,23,False,False,Politics,thoughtful,1,2
 22015424,2024-04-21 03:19:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,211,1507,78,23,2024,4,21,3,19,24,False,True,Politics,thoughtful,0,0
@@ -5830,7 +5830,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 569727940,2024-06-03 23:13:00,Excited to share our latest project in Science. More soon!,NASA,NASA,75000000,466,1723,56,16,2024,6,3,23,13,12,False,False,Science,professional,0,0
 42270519,2024-06-04 00:30:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,282,1317,58,17,2024,6,4,0,30,21,False,False,Music,consistent,1,0
 167154738,2024-06-04 07:12:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,340,2808,94,28,2024,6,4,7,12,20,False,False,Tech,informative,0,0
-849280932,2024-06-05 14:26:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,145,521,26,7,2024,6,5,14,26,3,False,False,Tech,erratic,1,0
+849280932,2024-06-05 14:26:00,Thank you all!,elonmusk,Elon Musk,150000000,145,521,26,7,2024,6,5,14,26,3,False,False,Tech,erratic,1,0
 326011362,2024-06-05 16:42:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,2634,11240,842,252,2024,6,5,16,42,19,False,True,Science,professional,1,0
 470894524,2024-06-05 19:18:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,218,1523,96,28,2024,6,5,19,18,17,False,False,Tech,informative,0,0
 455691389,2024-06-05 21:30:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1273,6472,234,70,2024,6,5,21,30,24,False,False,Music,consistent,1,0
@@ -5881,7 +5881,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 684611480,2024-06-21 20:34:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,679,4860,241,72,2024,6,21,20,34,16,False,False,Tech,erratic,0,0
 694447866,2024-06-22 04:17:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,482,3219,119,35,2024,6,22,4,17,17,False,False,Tech,erratic,3,0
 799986373,2024-06-22 12:16:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,222,1361,65,19,2024,6,22,12,16,24,False,False,Tech,informative,0,0
-320144212,2024-06-22 17:00:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,63,318,21,6,2024,6,22,17,0,3,False,False,Tech,erratic,1,0
+320144212,2024-06-22 17:00:00,Thank you all!,elonmusk,Elon Musk,150000000,63,318,21,6,2024,6,22,17,0,3,False,False,Tech,erratic,1,0
 421489657,2024-06-23 06:01:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,747,3970,310,93,2024,6,23,6,1,16,False,True,Music,consistent,0,0
 154961137,2024-06-23 11:05:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,168,835,21,6,2024,6,23,11,5,11,False,False,Tech,erratic,2,0
 356623027,2024-06-23 19:14:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,327,1741,53,15,2024,6,23,19,14,20,False,True,Music,consistent,0,0
@@ -5909,7 +5909,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 677118802,2024-07-06 09:50:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,383,1415,101,30,2024,7,6,9,50,5,False,False,Tech,erratic,0,0
 149891010,2024-07-06 10:34:00,Excited to share our latest project in Tech. More soon!,BillGates,Bill Gates,62000000,1113,4681,113,33,2024,7,6,10,34,14,False,False,Tech,informative,0,0
 246273103,2024-07-06 14:26:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,1256,5061,384,115,2024,7,6,14,26,37,False,False,Tech,erratic,1,1
-603579754,2024-07-06 21:00:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,93,431,28,8,2024,7,6,21,0,2,False,False,Tech,erratic,0,0
+603579754,2024-07-06 21:00:00,Exciting news!,elonmusk,Elon Musk,150000000,93,431,28,8,2024,7,6,21,0,2,False,False,Tech,erratic,0,0
 256815291,2024-07-07 06:39:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,973,4170,278,83,2024,7,7,6,39,17,False,True,Music,consistent,0,0
 207544763,2024-07-07 14:49:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,860,3662,275,82,2024,7,7,14,49,24,False,False,Politics,thoughtful,0,0
 683136017,2024-07-08 08:04:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,598,3545,100,30,2024,7,8,8,4,15,False,False,Science,professional,0,0
@@ -6024,7 +6024,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 925607777,2024-08-21 02:43:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,692,2598,197,59,2024,8,21,2,43,23,False,True,Politics,thoughtful,1,0
 397031382,2024-08-21 06:53:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,401,3907,263,78,2024,8,21,6,53,27,False,False,Tech,erratic,0,1
 318787729,2024-08-21 07:36:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,214,825,61,18,2024,8,21,7,36,7,False,False,Tech,erratic,2,0
-737108734,2024-08-21 11:30:00,Great day! 🎉,elonmusk,Elon Musk,150000000,152,553,35,10,2024,8,21,11,30,3,False,False,Tech,erratic,0,0
+737108734,2024-08-21 11:30:00,Great day!,elonmusk,Elon Musk,150000000,152,553,35,10,2024,8,21,11,30,3,False,False,Tech,erratic,0,0
 314221606,2024-08-22 10:50:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1026,5604,419,125,2024,8,22,10,50,22,False,True,Music,consistent,0,0
 290466646,2024-08-22 12:47:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1043,4249,107,32,2024,8,22,12,47,26,False,False,Politics,thoughtful,2,0
 19708456,2024-08-22 21:46:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,402,3868,284,85,2024,8,22,21,46,30,False,True,Politics,thoughtful,1,0
@@ -6050,7 +6050,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 510716629,2024-09-03 14:23:00,Proud of what we're building. Stay tuned for updates.,NASA,NASA,75000000,135,1107,28,8,2024,9,3,14,23,14,False,True,Science,professional,0,0
 494605179,2024-09-04 13:53:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,610,2556,161,48,2024,9,4,13,53,20,False,False,Music,consistent,0,0
 63444515,2024-09-05 05:20:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,293,1223,24,7,2024,9,5,5,20,14,False,False,Tech,erratic,0,0
-817637222,2024-09-05 07:29:00,Great day! 🎉,elonmusk,Elon Musk,150000000,123,603,22,6,2024,9,5,7,29,4,False,True,Tech,erratic,0,0
+817637222,2024-09-05 07:29:00,Great day!,elonmusk,Elon Musk,150000000,123,603,22,6,2024,9,5,7,29,4,False,True,Tech,erratic,0,0
 369164994,2024-09-05 08:32:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,812,4727,145,43,2024,9,5,8,32,22,False,False,Tech,informative,1,0
 108501719,2024-09-05 11:28:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,599,2870,69,20,2024,9,5,11,28,20,False,False,Tech,informative,0,0
 457483140,2024-09-05 12:17:00,Excited to share our latest project in Tech. More soon!,BillGates,Bill Gates,62000000,354,2048,81,24,2024,9,5,12,17,13,False,False,Tech,informative,0,0
@@ -6102,7 +6102,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 676406952,2024-09-19 08:23:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,425,4079,117,35,2024,9,19,8,23,22,True,False,Science,professional,0,0
 6654327,2024-09-19 10:50:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,524,1915,111,33,2024,9,19,10,50,21,False,False,Politics,thoughtful,0,0
 147452623,2024-09-19 19:54:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,779,2759,144,43,2024,9,19,19,54,29,False,False,Tech,informative,0,0
-186943658,2024-09-19 21:06:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,22,208,7,2,2024,9,19,21,6,3,False,True,Tech,erratic,0,1
+186943658,2024-09-19 21:06:00,Exciting news!,elonmusk,Elon Musk,150000000,22,208,7,2,2024,9,19,21,6,3,False,True,Tech,erratic,0,1
 144613785,2024-09-20 08:57:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,191,835,41,12,2024,9,20,8,57,21,False,True,Tech,informative,1,0
 566660995,2024-09-20 09:17:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,672,2773,79,23,2024,9,20,9,17,8,False,False,Tech,erratic,1,0
 297411941,2024-09-20 12:50:00,Great conversation today about innovation and the future.,NASA,NASA,75000000,543,2444,142,42,2024,9,20,12,50,14,False,False,Science,professional,1,0
@@ -6133,7 +6133,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 678050333,2024-10-01 02:07:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,563,2115,129,38,2024,10,1,2,7,20,False,True,Tech,informative,1,0
 897071783,2024-10-01 05:39:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,457,2231,80,24,2024,10,1,5,39,19,False,False,Music,consistent,0,1
 71066661,2024-10-01 06:27:00,Proud of what we're building. Stay tuned for updates.,NASA,NASA,75000000,90,785,59,17,2024,10,1,6,27,14,False,False,Science,professional,0,0
-4058691,2024-10-01 09:35:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,270,1084,78,23,2024,10,1,9,35,4,False,False,Tech,erratic,0,0
+4058691,2024-10-01 09:35:00,Exciting news!,elonmusk,Elon Musk,150000000,270,1084,78,23,2024,10,1,9,35,4,False,False,Tech,erratic,0,0
 340384941,2024-10-02 08:12:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,871,8431,408,122,2024,10,2,8,12,30,True,False,Politics,thoughtful,0,0
 522765299,2024-10-02 09:26:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,832,3242,232,69,2024,10,2,9,26,18,False,False,Science,professional,1,0
 349812261,2024-10-02 15:46:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,646,3039,142,42,2024,10,2,15,46,15,False,False,Science,professional,2,0
@@ -6156,7 +6156,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 713478026,2024-10-08 06:45:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,966,3609,127,38,2024,10,8,6,45,22,False,False,Music,consistent,0,0
 849026207,2024-10-08 12:40:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,826,4199,171,51,2024,10,8,12,40,17,False,False,Tech,informative,0,1
 591046866,2024-10-08 23:48:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,376,2773,195,58,2024,10,8,23,48,17,False,False,Tech,informative,0,0
-676734360,2024-10-09 00:59:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,148,702,45,13,2024,10,9,0,59,4,False,True,Tech,erratic,0,0
+676734360,2024-10-09 00:59:00,Thank you all!,elonmusk,Elon Musk,150000000,148,702,45,13,2024,10,9,0,59,4,False,True,Tech,erratic,0,0
 634723622,2024-10-09 04:33:00,This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,846,4915,312,93,2024,10,9,4,33,19,False,True,Politics,thoughtful,0,1
 317363927,2024-10-09 13:32:00,Excited to share our latest project in Tech. More soon!,elonmusk,Elon Musk,150000000,190,679,14,4,2024,10,9,13,32,7,False,False,Tech,erratic,0,0
 128429388,2024-10-09 16:34:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,165,611,34,10,2024,10,9,16,34,5,False,False,Tech,erratic,0,1
@@ -6172,7 +6172,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 623209609,2024-10-13 06:29:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,403,1660,128,38,2024,10,13,6,29,19,False,False,Music,consistent,0,1
 699888247,2024-10-14 20:50:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,282,1596,97,29,2024,10,14,20,50,24,False,True,Tech,informative,0,0
 40917027,2024-10-15 03:12:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,317,2949,102,30,2024,10,15,3,12,19,False,False,Science,professional,1,0
-75389602,2024-10-15 04:19:00,Thank you all! 🙏,NASA,NASA,75000000,32,282,9,2,2024,10,15,4,19,4,False,False,Science,professional,0,0
+75389602,2024-10-15 04:19:00,Thank you all!,NASA,NASA,75000000,32,282,9,2,2024,10,15,4,19,4,False,False,Science,professional,0,0
 290636424,2024-10-15 05:32:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,259,2407,170,51,2024,10,15,5,32,19,False,False,Tech,informative,0,2
 197421869,2024-10-15 07:01:00,This is a detailed tweet about Science. ,NASA,NASA,75000000,541,2413,84,25,2024,10,15,7,1,19,False,True,Science,professional,1,0
 511457752,2024-10-15 12:26:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,632,4828,333,99,2024,10,15,12,26,20,False,False,Music,consistent,0,0
@@ -6318,7 +6318,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 665537520,2024-12-12 21:39:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,340,2718,97,29,2024,12,12,21,39,27,False,False,Politics,thoughtful,1,0
 638243998,2024-12-13 01:22:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,1256,4405,116,34,2024,12,13,1,22,17,False,False,Tech,informative,0,0
 613835875,2024-12-13 03:28:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,467,2012,69,20,2024,12,13,3,28,18,False,False,Tech,informative,0,0
-276411709,2024-12-13 07:19:00,Exciting news! 🔥,elonmusk,Elon Musk,150000000,43,304,14,4,2024,12,13,7,19,4,False,False,Tech,erratic,1,0
+276411709,2024-12-13 07:19:00,Exciting news!,elonmusk,Elon Musk,150000000,43,304,14,4,2024,12,13,7,19,4,False,False,Tech,erratic,1,0
 688656401,2024-12-13 23:53:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,460,2139,130,39,2024,12,13,23,53,21,False,False,Music,consistent,1,0
 373970915,2024-12-14 05:47:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,375,2447,185,55,2024,12,14,5,47,23,False,False,Music,consistent,0,0
 712388053,2024-12-14 06:02:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,1575,5515,154,46,2024,12,14,6,2,26,False,False,Politics,thoughtful,0,0
@@ -6329,7 +6329,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 575022790,2024-12-16 06:31:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,450,3325,245,73,2024,12,16,6,31,20,False,False,Science,professional,0,0
 762636793,2024-12-16 08:43:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,815,6227,191,57,2024,12,16,8,43,26,False,False,Science,professional,0,0
 873779954,2024-12-16 12:37:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,850,3175,197,59,2024,12,16,12,37,21,False,False,Music,consistent,1,0
-23824306,2024-12-16 18:47:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,273,1679,67,20,2024,12,16,18,47,4,False,False,Tech,erratic,2,0
+23824306,2024-12-16 18:47:00,Thank you all!,elonmusk,Elon Musk,150000000,273,1679,67,20,2024,12,16,18,47,4,False,False,Tech,erratic,2,0
 465566472,2024-12-16 23:03:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,1005,4331,262,78,2024,12,16,23,3,23,False,False,Tech,erratic,2,0
 354741419,2024-12-17 01:26:00,Great conversation today about innovation and the future.,elonmusk,Elon Musk,150000000,269,1888,134,40,2024,12,17,1,26,11,False,True,Tech,erratic,1,0
 682766879,2024-12-17 04:06:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,581,2412,83,24,2024,12,17,4,6,18,False,False,Tech,informative,0,1
@@ -6344,11 +6344,11 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 306611027,2024-12-20 00:08:00,This is a detailed tweet about Science. This is a detailed tweet about Science. ,NASA,NASA,75000000,1505,5816,204,61,2024,12,20,0,8,22,False,True,Science,professional,0,0
 325238935,2024-12-20 09:43:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,693,3264,141,42,2024,12,20,9,43,24,False,False,Tech,erratic,1,0
 145320621,2024-12-20 21:44:00,Proud of what we're building. Stay tuned for updates.,elonmusk,Elon Musk,150000000,1053,5481,265,79,2024,12,20,21,44,13,False,False,Tech,erratic,1,0
-879146117,2024-12-21 05:04:00,Working hard! 💪,elonmusk,Elon Musk,150000000,44,341,13,3,2024,12,21,5,4,3,False,False,Tech,erratic,0,1
+879146117,2024-12-21 05:04:00,Working hard!,elonmusk,Elon Musk,150000000,44,341,13,3,2024,12,21,5,4,3,False,False,Tech,erratic,0,1
 709033969,2024-12-21 14:07:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,594,4074,132,39,2024,12,21,14,7,27,False,False,Music,consistent,0,0
 465546586,2024-12-22 00:49:00,This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,220,1254,79,23,2024,12,22,0,49,18,False,False,Music,consistent,1,0
 700323598,2024-12-22 09:17:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,213,1573,115,34,2024,12,22,9,17,17,False,True,Tech,erratic,1,0
-143291106,2024-12-23 11:01:00,Thank you all! 🙏,elonmusk,Elon Musk,150000000,86,633,34,10,2024,12,23,11,1,4,True,False,Tech,erratic,0,0
+143291106,2024-12-23 11:01:00,Thank you all!,elonmusk,Elon Musk,150000000,86,633,34,10,2024,12,23,11,1,4,True,False,Tech,erratic,0,0
 574504922,2024-12-23 15:03:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,652,4655,202,60,2024,12,23,15,3,23,False,False,Tech,informative,0,0
 232878240,2024-12-24 08:24:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,395,2234,121,36,2024,12,24,8,24,19,False,False,Tech,informative,0,1
 955210424,2024-12-24 13:20:00,This is a detailed tweet about Politics. This is a detailed tweet about Politics. ,BarackObama,Barack Obama,132000000,628,2652,82,24,2024,12,24,13,20,20,False,False,Politics,thoughtful,0,0
@@ -6356,7 +6356,7 @@ id,date,content,username,displayname,followers,retweet_count,like_count,reply_co
 465224408,2024-12-25 03:15:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,1272,6404,210,63,2024,12,25,3,15,22,False,True,Music,consistent,0,0
 86530513,2024-12-25 11:54:00,This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,191,961,69,20,2024,12,25,11,54,15,False,False,Tech,erratic,0,0
 934243760,2024-12-25 12:58:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,838,4245,143,42,2024,12,25,12,58,20,False,True,Music,consistent,0,1
-166962544,2024-12-25 22:04:00,Great day! 🎉,elonmusk,Elon Musk,150000000,24,132,10,3,2024,12,25,22,4,2,False,True,Tech,erratic,1,0
+166962544,2024-12-25 22:04:00,Great day!,elonmusk,Elon Musk,150000000,24,132,10,3,2024,12,25,22,4,2,False,True,Tech,erratic,1,0
 236859488,2024-12-26 01:20:00,This is a detailed tweet about Tech. This is a detailed tweet about Tech. This is a detailed tweet about Tech. ,elonmusk,Elon Musk,150000000,1142,10644,602,180,2024,12,26,1,20,34,False,False,Tech,erratic,0,0
 79383213,2024-12-26 13:55:00,This is a detailed tweet about Music. This is a detailed tweet about Music. ,taylorswift13,Taylor Swift,95000000,565,4681,116,34,2024,12,26,13,55,22,False,False,Music,consistent,0,0
 54756541,2024-12-26 15:19:00,This is a detailed tweet about Tech. ,BillGates,Bill Gates,62000000,737,3756,274,82,2024,12,26,15,19,19,False,False,Tech,informative,0,0
